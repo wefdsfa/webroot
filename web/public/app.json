@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "saas_web",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}

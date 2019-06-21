@@ -1,0 +1,877 @@
+2019-05-30 14:46:51.098 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:46:51.100 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'eb808804-f019-4f2e-9bd' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:46:56.640 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:46:56.642 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'd9591563-2bd7-437c-988' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:46:57.460 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:46:57.461 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'c43bcd9c-5e02-4468-98d' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:46:58.133 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:46:58.139 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '1bd35efc-29ae-44e5-98d' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:46:59.232 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:46:59.234 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'ff1e577c-3842-4c3e-9ad' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:00.635 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:00.639 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'a32c7432-b75d-448a-809' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:21.087 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:21.087 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'ddd12d42-fddf-453a-b6e' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:26.638 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:26.639 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'ca7ea60c-29fb-42af-a0b' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:27.461 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:27.464 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'c1ef2298-9173-4c16-b34' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:28.140 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:28.142 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'cf397029-4168-4a79-a7c' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:29.235 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:29.241 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '9ff51d22-6272-44c6-949' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:30.640 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+        method: 'PUT',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:30.641 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cef499fe9d2000d8bba1029',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556434283496' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'daa51020-94d5-413b-b18' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:38.381 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:38.382 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '0dcc6c62-f2e8-4e88-a58' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:39.841 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:39.842 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '1c6f129e-2dac-4c62-a75' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:41.163 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:41.164 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '115b737d-39cc-4053-a74' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:53.949 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:53.950 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'd0df3182-cd42-4826-827' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:56.695 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:56.696 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '6899ce05-e0fa-49fc-8f1' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:47:57.907 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:47:57.912 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'e173b797-8ff4-449e-a08' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:48:08.389 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:48:08.390 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '29978888-4d90-41b4-b33' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:48:09.836 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:48:09.836 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'e5299ccc-1ad1-4955-a1c' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:48:11.159 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:48:11.163 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'ba02d82d-97d6-4dcf-bf0' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:48:11.750 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:48:11.752 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'f61ad4a4-5e2d-459c-aea' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:48:12.089 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:48:12.090 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '2f815886-2c1d-4314-bc9' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:48:12.267 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:48:12.268 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '65508314-d8bc-43e9-9e1' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 14:52:57.656 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/229/business/now?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 14:52:57.657 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/229/business/now?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '1799811e-b1e3-4afa-971' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 17:52:00.475 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread [as _originalOnread] (net.js:628:25)
+    at TCP.<anonymous> (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31)
+  code: 'ECONNRESET',
+  errno: 'ECONNRESET',
+  syscall: 'read',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/relationship/getSelectOptions?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 17:52:00.476 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/relationship/getSelectOptions?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '01008df8-3b9a-4039-9bc' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 17:52:00.480 error  4480 master                 web --- [process-4480 ] routes\backend.js              : { Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread [as _originalOnread] (net.js:628:25)
+    at TCP.<anonymous> (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31)
+  code: 'ECONNRESET',
+  errno: 'ECONNRESET',
+  syscall: 'read',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/106?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-30 17:52:00.481 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/106?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '4a9a78da-1673-442f-9a8' },
+  forever: true } { message: '系统升级中...' }
+2019-05-30 18:01:59.082 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/batch/saveBatch',
+  method: 'POST',
+  json: true,
+  body: 
+   { year: '2019',
+     beginTime: '2019-05-07 18:01:54',
+     endTime: '2019-05-31 18:01:56',
+     name: '提前批' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '3b3a64a9-310d-43ed-844' },
+  forever: true } { code: '30001', message: '字典标签不允许相同！', data: null }
+2019-05-30 18:15:19.104 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E6%99%93%E7%BA%A2&studentNo=18152301150308&idCardNo=090222',
+  method: 'GET',
+  json: true,
+  body: { name: '晓红', studentNo: '18152301150308', idCardNo: '090222' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'b8adcfff-8277-41dd-8a8' },
+  forever: true } { code: '30003', message: '30003', data: null }
+2019-05-30 18:15:53.214 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E6%99%93%E7%BA%A2&studentNo=18152301150308&idCardNo=090222',
+  method: 'GET',
+  json: true,
+  body: { name: '晓红', studentNo: '18152301150308', idCardNo: '090222' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'a17c1f3c-a163-4772-97f' },
+  forever: true } { code: '30003', message: '30003', data: null }
+2019-05-30 18:18:38.373 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E9%99%88%E6%98%8A%E4%B8%9C&studentNo=18150105153131&idCardNo=112546',
+  method: 'GET',
+  json: true,
+  body: { name: '陈昊东', studentNo: '18150105153131', idCardNo: '112546' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '914ffe2b-8621-4d39-bca' },
+  forever: true } { code: '30004', message: '30004', data: null }
+2019-05-30 18:19:05.832 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E9%99%88%E6%98%8A%E4%B8%9C&studentNo=18150105153131&idCardNo=112546',
+  method: 'GET',
+  json: true,
+  body: { name: '陈昊东', studentNo: '18150105153131', idCardNo: '112546' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'c957ee18-79fd-4e2a-991' },
+  forever: true } { code: '30004', message: '30004', data: null }
+2019-05-30 18:19:08.690 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E9%99%88%E6%98%8A%E4%B8%9C&studentNo=18150105153131&idCardNo=112546',
+  method: 'GET',
+  json: true,
+  body: { name: '陈昊东', studentNo: '18150105153131', idCardNo: '112546' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'c819aa4e-b537-44f3-bda' },
+  forever: true } { code: '30004', message: '30004', data: null }
+2019-05-30 18:19:09.616 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E9%99%88%E6%98%8A%E4%B8%9C&studentNo=18150105153131&idCardNo=112546',
+  method: 'GET',
+  json: true,
+  body: { name: '陈昊东', studentNo: '18150105153131', idCardNo: '112546' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'b9dc265c-3433-4d6f-996' },
+  forever: true } { code: '30004', message: '30004', data: null }
+2019-05-30 18:19:10.398 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E9%99%88%E6%98%8A%E4%B8%9C&studentNo=18150105153131&idCardNo=112546',
+  method: 'GET',
+  json: true,
+  body: { name: '陈昊东', studentNo: '18150105153131', idCardNo: '112546' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'bb5acbae-8720-45fd-acb' },
+  forever: true } { code: '30004', message: '30004', data: null }
+2019-05-30 18:19:11.806 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E9%99%88%E6%98%8A%E4%B8%9C&studentNo=18150105153131&idCardNo=112546',
+  method: 'GET',
+  json: true,
+  body: { name: '陈昊东', studentNo: '18150105153131', idCardNo: '112546' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'b2fb5dc0-35fb-4379-875' },
+  forever: true } { code: '30004', message: '30004', data: null }
+2019-05-30 18:19:12.904 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E9%99%88%E6%98%8A%E4%B8%9C&studentNo=18150105153131&idCardNo=112546',
+  method: 'GET',
+  json: true,
+  body: { name: '陈昊东', studentNo: '18150105153131', idCardNo: '112546' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '8a727651-de28-4eba-9d3' },
+  forever: true } { code: '30004', message: '30004', data: null }
+2019-05-30 18:20:10.306 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E9%99%88%E6%98%8A%E4%B8%9C&studentNo=18150105153131&idCardNo=112546',
+  method: 'GET',
+  json: true,
+  body: { name: '陈昊东', studentNo: '18150105153131', idCardNo: '112546' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'dd9683bd-5464-4f7d-85b' },
+  forever: true } { code: '30004', message: '30004', data: null }
+2019-05-30 18:21:03.736 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E7%9F%B3%E4%B9%A6%E5%87%BD&studentNo=18152729150677&idCardNo=112546',
+  method: 'GET',
+  json: true,
+  body: { name: '石书函', studentNo: '18152729150677', idCardNo: '112546' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '7454e2d7-2c6f-42cf-bfe' },
+  forever: true } { code: '30003', message: '30003', data: null }
+2019-05-30 18:21:21.591 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E7%9F%B3%E4%B9%A6%E5%87%BD&studentNo=18150203154164&idCardNo=112546',
+  method: 'GET',
+  json: true,
+  body: { name: '石书函', studentNo: '18150203154164', idCardNo: '112546' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '6e589e1d-dba9-4f4e-890' },
+  forever: true } { code: '30004', message: '30004', data: null }
+2019-05-30 18:29:40.989 error  4480 master                 web --- [process-4480 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E7%9F%B3%E4%B9%A6%E5%87%BD&studentNo=18150203154164&idCardNo=112524',
+  method: 'GET',
+  json: true,
+  body: { name: '石书函', studentNo: '18150203154164', idCardNo: '112524' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '49b56cb5-bfb3-44b1-bf9' },
+  forever: true } { code: '30003', message: '30003', data: null }

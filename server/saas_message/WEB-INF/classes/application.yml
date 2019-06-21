@@ -1,0 +1,45 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: message
+  jmx:
+    default-domain: ${spring.application.name}
+  session:
+    store-type: none
+  redis:
+    timeout: 5000
+mybatis:
+  type-aliases-package: com.xchs.message.module  # 注意：对应实体类的路径
+  configuration:
+    map-underscore-to-camel-case: true
+mapper:
+  mappers: com.xchs.message.base.ElementaryMapper
+  identity: mysql
+pagehelper:
+  helperDialect: mysql
+  reasonable: true
+  supportMethodsArguments: true
+  params: count=countSql
+server:
+  port: 8765
+  servlet:
+    session:
+      cookie:
+        max-age: 0
+      timeout: 1
+      persistent: false
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:8761/eureka/
+        # 解决第一次请求报超时异常的方案：
+        # hystrix.command.default.execution.timeout.enabled: false
+        # hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 5000
+ribbon:
+  ReadTimeout: 120000
+  ConnectTimeout: 120000
+logging:
+  config: classpath:logback-spring.xml
+
+  hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 5000

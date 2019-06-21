@@ -1,0 +1,10 @@
+/*可以在这里添加你自己的css*/
+@font-face{
+  font-family: MaterialIcons;
+  src: url("./MaterialIcons-Regular.woff");
+}
+
+.maticon2{
+  font-style: normal;
+  font-family: 'MaterialIcons';
+}

@@ -1,0 +1,40 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: payment
+  jmx:
+    default-domain: ${spring.application.name}
+  session:
+    store-type: none
+  redis:
+    timeout: 5000
+mybatis:
+  type-aliases-package: com.xchs.payment.module  # 注意：对应实体类的路径
+  configuration:
+    map-underscore-to-camel-case: true
+    default-enum-type-handler: org.apache.ibatis.type.EnumTypeHandler
+mapper:
+  mappers: com.xchs.payment.base.ElementaryMapper
+  identity: mysql
+pagehelper:
+  helperDialect: mysql
+  supportMethodsArguments: true
+  params: count=countSql
+server:
+  port: 8764
+  servlet:
+    session:
+      cookie:
+        max-age: 0
+      timeout: 1
+      persistent: false
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:8761/eureka/
+ribbon:
+  ReadTimeout: 120000
+  ConnectTimeout: 120000
+logging:
+  config: classpath:logback-spring.xml

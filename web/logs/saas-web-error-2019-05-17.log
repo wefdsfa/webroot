@@ -1,0 +1,447 @@
+2019-05-17 09:50:24.350 error  2144 master                 web --- [process-2144 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation',
+  method: 'POST',
+  json: true,
+  body: 
+   { familyMembers: [ '01' ],
+     hasPsychiatricHistory: true,
+     parentsMarriageSituation: '在婚',
+     psychiatricHistory: false,
+     takeMedicine: true,
+     contact: '15790876789',
+     remark: '2324',
+     email: '15790876789@qq.com',
+     hasConsultingExperience: true,
+     updateTime: '2019-05-17 09:21:30',
+     consultingDate: '2019-04-29 09:50:12',
+     consultingAddress: '恶趣味',
+     consultingMainContent: '恶趣味',
+     localConsultingHours: '2019-05-28 09:50:16',
+     hospital: '额外企鹅',
+     doctor: '额外企鹅',
+     drug: '而我却',
+     content: '恶趣味 ',
+     firstTime: false,
+     readmeId: 6,
+     dayTimeTeacherId: 783 },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '2342edfb-33c0-4987-9b2' },
+  forever: true } { code: '10001', message: '参数数据无效！', data: null }
+2019-05-17 09:50:41.477 error  2144 master                 web --- [process-2144 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation',
+  method: 'POST',
+  json: true,
+  body: 
+   { familyMembers: [ '01' ],
+     hasPsychiatricHistory: true,
+     parentsMarriageSituation: '在婚',
+     psychiatricHistory: false,
+     takeMedicine: true,
+     contact: '15790876789',
+     remark: '2324',
+     email: '15790876789@qq.com',
+     hasConsultingExperience: true,
+     updateTime: '2019-05-17 09:21:30',
+     consultingDate: '2019-04-29 09:50:12',
+     consultingAddress: '恶趣味',
+     consultingMainContent: '恶趣味',
+     localConsultingHours: '2019-05-28 09:50:16',
+     hospital: '额外企鹅',
+     doctor: '额外企鹅',
+     drug: '而我却',
+     content: '恶趣味 ',
+     firstTime: false,
+     readmeId: 6,
+     dayTimeTeacherId: 783 },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'c077e3fa-41d2-4690-9bc' },
+  forever: true } { code: '10001', message: '参数数据无效！', data: null }
+2019-05-17 09:57:53.671 error  2144 master                 web --- [process-2144 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation',
+  method: 'POST',
+  json: true,
+  body: 
+   { familyMembers: [ '01' ],
+     hasPsychiatricHistory: true,
+     parentsMarriageSituation: '在婚',
+     psychiatricHistory: false,
+     takeMedicine: true,
+     contact: '15790876789',
+     remark: '2324',
+     email: '15790876789@qq.com',
+     hasConsultingExperience: true,
+     updateTime: '2019-05-17 09:21:30',
+     consultingDate: '2019-04-30 09:57:47',
+     consultingAddress: '后台',
+     consultingMainContent: '后台',
+     localConsultingHours: '2019-05-08 09:57:38',
+     hospital: '很听话',
+     doctor: '后台',
+     drug: '后台',
+     content: '核桃仁和',
+     firstTime: false,
+     readmeId: 6,
+     dayTimeTeacherId: 783 },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '90d659db-8972-4a62-a91' },
+  forever: true } { code: '10001', message: '参数数据无效！', data: null }
+2019-05-17 10:04:48.984 error  2144 267d6969-31e9-4660-96a web --- [process-2144 ] build\webpack.dev.conf.js      : { TypeError: sessionUtil.getEnrollmentCookie is not a function
+    at router.get (E:\workspace\xchs\saas-web\trunk\saas1.0-1\routes\login.js:462:19)
+    at Layer.handle [as handle_request] (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\layer.js:95:5)
+    at next (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\layer.js:95:5)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:281:22
+    at Function.process_params (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:335:12)
+    at next (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:275:10)
+    at Function.handle (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:174:3)
+    at router (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:317:13)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:284:7
+    at Function.process_params (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:335:12)
+    at next (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:275:10)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:635:15
+  context: 
+   { originalUrl: '/logout',
+     method: 'GET',
+     ips: [],
+     query: {},
+     body: {} } }
+2019-05-17 10:04:54.703 error  2144 e1500b76-9b5e-4c68-9ee web --- [process-2144 ] build\webpack.dev.conf.js      : { TypeError: sessionUtil.getEnrollmentCookie is not a function
+    at router.get (E:\workspace\xchs\saas-web\trunk\saas1.0-1\routes\login.js:462:19)
+    at Layer.handle [as handle_request] (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\layer.js:95:5)
+    at next (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\layer.js:95:5)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:281:22
+    at Function.process_params (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:335:12)
+    at next (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:275:10)
+    at Function.handle (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:174:3)
+    at router (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:317:13)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:284:7
+    at Function.process_params (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:335:12)
+    at next (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:275:10)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:635:15
+  context: 
+   { originalUrl: '/logout',
+     method: 'GET',
+     ips: [],
+     query: {},
+     body: {} } }
+2019-05-17 12:06:14.909 error 15660 0f934fbe-8205-4ddc-95c web --- [process-15660] build\webpack.dev.conf.js      : { TypeError: sessionUtil.getEnrollmentCookie is not a function
+    at router.get (E:\workspace\xchs\saas-web\trunk\saas1.0-1\routes\login.js:465:19)
+    at Layer.handle [as handle_request] (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\layer.js:95:5)
+    at next (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\layer.js:95:5)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:281:22
+    at Function.process_params (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:335:12)
+    at next (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:275:10)
+    at Function.handle (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:174:3)
+    at router (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:317:13)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:284:7
+    at Function.process_params (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:335:12)
+    at next (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:275:10)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_express@4.16.4@express\lib\router\index.js:635:15
+  context: 
+   { originalUrl: '/logout',
+     method: 'GET',
+     ips: [],
+     query: {},
+     body: {} } }
+2019-05-17 14:44:26.600 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/33/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '0d83a011-8c66-4c9b-931' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:22:30.148 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/31/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '4576a936-b599-44f9-95e' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:22:48.529 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/33/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '19823282-8960-4dba-864' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:24:04.974 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/35/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '7301886b-4a0f-4567-a82' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:29:07.783 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/35/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'bed208ea-2bec-4a7d-a43' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:30:18.091 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/35/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'eb9010f7-4a22-4ea2-ab2' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:31:38.311 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/35/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'fc55c457-74cc-495c-8e4' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:44:39.620 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/37/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '8ac699eb-4b8a-4913-bf6' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:45:03.306 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/37/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'a9cb3185-9ce6-4fef-9af' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:47:26.762 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/25/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '6aeefff7-b556-4d90-aaa' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:48:48.391 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/37/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'e6770edc-24e4-4b08-a45' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:49:58.445 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/37/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'da070d7f-6fa8-4c62-b31' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:50:09.656 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/33/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'ba46f75f-191c-4274-a0e' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:51:06.695 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/23/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '3de12c52-2a05-451b-b3d' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:51:10.219 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/37/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '5bf69139-c2b7-4515-b0c' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:51:56.918 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/35/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'b2813f6c-f62a-4247-8b1' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '70001', message: '抱歉，您没有访问权限！', data: null }
+2019-05-17 16:55:08.837 error  2540 master                 web --- [process-2540 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/mentality/reservation/21/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-05-17 16:55:08.838 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/21/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'cb8bf342-dc65-4bfb-9d9' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { message: '系统升级中...' }
+2019-05-17 16:55:15.659 error  2540 master                 web --- [process-2540 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/mentality/reservation/37/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-05-17 16:55:15.663 error  2540 master                 web --- [process-2540 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/mentality/reservation/37/histories?pageIndex=0&pageSize=99999&lang=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'ae0cb94c-b4dc-4190-b09' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { message: '系统升级中...' }

@@ -1,0 +1,193 @@
+2019-06-10 09:38:29.244 error  4024 master                 web --- [process-4024 ] ..nterceptor\extendResponse.js : Error: 系统配置错误
+    at Object.getSchoolConfigFromOfficial [as callback] (E:\workspace\xchs\saas-web\trunk\saas1.0-1\utils\schoolUtil.js:114:27)
+    at Object.resDefaultHandler (E:\workspace\xchs\saas-web\trunk\saas1.0-1\utils\officialUtil.js:53:8)
+    at Request.self.callback (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_request@2.88.0@request\request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_request@2.88.0@request\request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_request@2.88.0@request\request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-06-10 16:51:23.960 error 10076 master                 web --- [process-10076] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/message/quiry?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-06-10 16:51:23.962 error 10076 master                 web --- [process-10076] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '617c831f-17ae-4e55-b39' },
+  forever: true } { message: '系统升级中...' }
+2019-06-10 16:51:23.967 error 10076 master                 web --- [process-10076] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/currentUser/menus?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-06-10 16:51:23.968 error 10076 master                 web --- [process-10076] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/currentUser/menus?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '9bf5cf9f-38b0-437d-950' },
+  forever: true } { message: '系统升级中...' }
+2019-06-10 16:51:23.999 error 10076 master                 web --- [process-10076] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/announcement/list/10?pageSize=999&pageIndex=0&type=all&page=0&size=999',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-06-10 16:51:24.003 error 10076 master                 web --- [process-10076] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/announcement/list/10?pageSize=999&pageIndex=0&type=all&page=0&size=999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '856ff0c7-3016-4239-bdd' },
+  body: 
+   { pageSize: '999',
+     pageIndex: '0',
+     type: 'all',
+     page: 0,
+     size: '999' },
+  forever: true } { message: '系统升级中...' }
+2019-06-10 16:51:24.007 error 10076 master                 web --- [process-10076] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/app/popular?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-06-10 16:51:24.014 error 10076 master                 web --- [process-10076] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/popular?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'e34c6536-d456-4cf1-aad' },
+  forever: true } { message: '系统升级中...' }
+2019-06-10 17:10:11.898 error 10076 master                 web --- [process-10076] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/firstPage/info?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-06-10 17:10:11.902 error 10076 master                 web --- [process-10076] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/firstPage/info?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default',
+     'X-Request-Id': 'f941723a-e550-4f17-8d6' },
+  forever: true } { message: '系统升级中...' }
+2019-06-10 17:10:20.695 error 10076 master                 web --- [process-10076] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/firstPage/info?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-06-10 17:10:20.695 error 10076 master                 web --- [process-10076] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/firstPage/info?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default',
+     'X-Request-Id': '6c00cf0c-1c77-4f89-8b5' },
+  forever: true } { message: '系统升级中...' }
+2019-06-10 17:10:32.861 error 10076 master                 web --- [process-10076] ..nterceptor\extendResponse.js : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9) code: 'ECONNRESET' }

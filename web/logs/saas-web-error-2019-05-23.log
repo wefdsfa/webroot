@@ -1,0 +1,55 @@
+2019-05-23 17:27:23.940 error 18172 master                 web --- [process-18172] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/formEngine/business/405/myFormInstance?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-23 17:27:23.941 error 18172 master                 web --- [process-18172] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/business/405/myFormInstance?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '13baf50c-19b5-45b1-95c' },
+  forever: true } { message: '系统升级中...' }
+2019-05-23 17:41:50.569 error 18172 master                 web --- [process-18172] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/formEngine/formInstance/5cc70416e9d2004c64772076',
+  method: 'PUT',
+  json: true,
+  body: 
+   { formData: [ [Object], [Object], [Object], [Object], [Object] ],
+     playerId: 'player_1556546531277' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '64a43046-2a21-44aa-8d2' },
+  forever: true } { code: '50002', message: '数据有误！', data: null }
+2019-05-23 19:16:16.886 error 18172 master                 web --- [process-18172] ..nterceptor\extendResponse.js : Error: 找不到此学工号： 30920122202460
+    at async.parallel (E:\workspace\xchs\saas-web\trunk\saas1.0-1\utils\loginUtil.js:112:25)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async@2.6.2@async\dist\async.js:3888:9
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async@2.6.2@async\dist\async.js:473:16
+    at iterateeCallback (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async@2.6.2@async\dist\async.js:992:24)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async@2.6.2@async\dist\async.js:969:16
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async@2.6.2@async\dist\async.js:3885:13
+    at backendUtil.requestBackend (E:\workspace\xchs\saas-web\trunk\saas1.0-1\utils\loginUtil.js:96:20)
+    at Request._callback (E:\workspace\xchs\saas-web\trunk\saas1.0-1\utils\backendUtil.js:49:7)
+    at Request.self.callback (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_request@2.88.0@request\request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_request@2.88.0@request\request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_request@2.88.0@request\request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
