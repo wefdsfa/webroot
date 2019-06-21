@@ -1,6 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:mysql://192.168.9.177:3306/xchs_saas_schedule?autoReconnect=true&autoReconnectForPools=true&useSSL=false&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true
-    username: root
-    password: xchs996832
-    driver-class-name: com.mysql.jdbc.Driver
