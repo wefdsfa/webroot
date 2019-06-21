@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/17832/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/constant
+END
+SignInStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/constant/SignInStatus.class
+END
+UserType.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/constant/UserType.class
+END
+ProjectConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/17832/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/constant/ProjectConstants.class
+END
+ProjectLevelEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/constant/ProjectLevelEnum.class
+END
+LimitListOfPeople.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Code/!svn/ver/17210/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/constant/LimitListOfPeople.class
+END
+SignInStatisticsType.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/constant/SignInStatisticsType.class
+END
+PowerModeOfDistribution.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/constant/PowerModeOfDistribution.class
+END
+SignInType.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/constant/SignInType.class
+END

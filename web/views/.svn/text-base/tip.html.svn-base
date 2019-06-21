@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>提示</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <style>
+    #content {
+      text-align: center;
+      margin-top: 100px;
+    }
+    #emoji i {
+      font-size: 48px;
+    }
+    #emoji svg {
+      fill: rgba(0,0,0,.54);
+      font-size: 48px;
+      width: 72px;
+      height: 72px;
+    }
+    #emoji.success svg {
+      fill: mediumseagreen;
+    }
+    #emoji.warning svg {
+      fill: orange;
+    }
+    #emoji.error svg {
+      fill: indianred;
+    }
+    #message {
+      font-size: 20px;
+      color: rgba(0,0,0,.54);
+      margin-top: 15px;
+    }
+
+    #redirect-url-container {
+      margin-top: 60px;
+      padding: 0 56px;
+    }
+
+    #redirect-url {
+      color: #455a64;
+      background: #eceff1;
+      padding: 8px 12px;
+      font-size: 13px;
+      border-radius: 4px;
+      font-weight: 500!important;
+      line-height: 1.42857143;
+      text-align: center;
+      cursor: pointer;
+      text-decoration: none!important;
+
+      max-width: 256px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <%
+    let level = typeof type === 'undefined' ? 'info' : type;
+    let emoji = {
+      info: '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024" version="1.1" p-id="2593" width="200" height="200"><defs><style type="text/css"/></defs><path d="M512 0C229.233778 0 0 229.233778 0 512s229.233778 512 512 512 512-229.233778 512-512S794.766222 0 512 0z m34.474667 783.075556h-68.949334V388.238222h68.949334V783.075556zM512 327.111111a43.093333 43.093333 0 1 1 0.014222-86.200889A43.093333 43.093333 0 0 1 512 327.111111z"/></svg>',
+      success: '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024" version="1.1" p-id="4944" width="200" height="200"><defs><style type="text/css"/></defs><path d="M512.723 21.149c-271.456 0-491.52 220.064-491.52 491.52s220.064 491.52 491.52 491.52 491.52-220.064 491.52-491.52-220.064-491.52-491.52-491.52zM798.679 358.605c0 0-359.601 337.36-359.711 337.456-8.069 7.865-21.094 7.7-28.959-0.369l-183.637-181.22c-7.865-8.069-7.7-21.094 0.369-28.959s21.094-7.7 28.959 0.369l169.097 166.53 345.279-323.134c8.069-7.865 21.094-7.7 28.959 0.369 7.878 8.069 7.714 21.094-0.355 28.959z" p-id="4945"/></svg>',
+      warning: '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1026 1024" version="1.1" p-id="3303" width="200.390625" height="200"><defs><style type="text/css"/></defs><path d="M1004.657 801.716 602.263 91.599c-49.213-86.817-129.646-86.817-178.866 0L21.004 801.716c-49.207 86.906-8.949 157.798 89.388 157.798l804.877 0C1013.606 959.514 1053.825 888.622 1004.657 801.716zM544.635 832.216l-63.649 0 0-63.649 63.649 0L544.635 832.216zM544.635 641.27l-63.649 0L480.986 259.377l63.649 0L544.635 641.27z" p-id="3304"/></svg>',
+      error: '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024" version="1.1" p-id="4126" width="200" height="200"><defs><style type="text/css"/></defs><path d="M512 0C230.4 0 0 230.4 0 512s230.4 512 512 512 512-230.4 512-512S793.6 0 512 0z m151.466667 633.6c8.533333 8.533333 8.533333 21.333333 0 29.866667-8.533333 8.533333-21.333333 8.533333-29.866667 0L512 541.866667l-121.6 121.6c-8.533333 8.533333-21.333333 8.533333-29.866667 0-8.533333-8.533333-8.533333-21.333333 0-29.866667l121.6-121.6-121.6-121.6c-8.533333-8.533333-8.533333-21.333333 0-29.866667 8.533333-8.533333 21.333333-8.533333 29.866667 0l121.6 121.6 121.6-121.6c8.533333-8.533333 21.333333-8.533333 29.866667 0 8.533333 8.533333 8.533333 21.333333 0 29.866667L541.866667 512l121.6 121.6z"/></svg>'
+    }[level]
+  %>
+  <div id="content">
+    <div id="emoji" class="<%= level %>"><%- emoji %></div>
+    <div id="message"><%= typeof message === 'undefined' ? 'Something wrong!' : message %></div>
+    <%  if (typeof redirectUrl !== 'undefined' && redirectUrl) {%>
+    <div id="redirect-url-container">
+      <div id="redirect-url" onclick="window.location.href='<%= redirectUrl %>'"><%= redirectMsg %></div>
+    </div>
+    <%  }%>
+
+  </div>
+</body>
+</html>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/announcement/entity/dto
+END
+AnnouncementTablesDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/announcement/entity/dto/AnnouncementTablesDTO.class
+END
+PublishToDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/announcement/entity/dto/PublishToDTO.class
+END
+CollegeDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/announcement/entity/dto/CollegeDTO.class
+END
+AnnouncementEditDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/announcement/entity/dto/AnnouncementEditDTO.class
+END

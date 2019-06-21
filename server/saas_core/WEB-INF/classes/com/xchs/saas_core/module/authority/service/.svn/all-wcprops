@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/17832/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/authority/service
+END
+CollegeRoleService.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/authority/service/CollegeRoleService.class
+END
+UserRoleService.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/authority/service/UserRoleService.class
+END
+SystemRoleService.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/authority/service/SystemRoleService.class
+END
+AuthorityService.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Code/!svn/ver/17289/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/authority/service/AuthorityService.class
+END
+SchoolRoleService.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/authority/service/SchoolRoleService.class
+END

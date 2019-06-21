@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper
+END
+RoleMenuMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/RoleMenuMapper.class
+END
+RoleUserMapper$RoleUserMapperProvider$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/RoleUserMapper$RoleUserMapperProvider$1.class
+END
+AuthorityRoleMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/AuthorityRoleMapper.class
+END
+RoleAreaMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/RoleAreaMapper.class
+END
+RoleUserMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/RoleUserMapper.class
+END
+RoleMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/RoleMapper.class
+END
+DictMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/DictMapper.class
+END
+RelUserRoleMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/RelUserRoleMapper.class
+END
+MenuMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/MenuMapper.class
+END
+AuthorityCollegeRoleUserMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/AuthorityCollegeRoleUserMapper.class
+END
+RoleUserMapper$RoleUserMapperProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/RoleUserMapper$RoleUserMapperProvider.class
+END
+DictTypeMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/mapper/DictTypeMapper.class
+END

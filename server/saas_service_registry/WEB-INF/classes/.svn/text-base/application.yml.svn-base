@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: service-registry
+  jmx:
+    default-domain: ${spring.application.name}
+logging:
+  config: classpath:logback-spring.xml
+server:
+  port: 8761
+eureka:
+  instance:
+    hostname: 127.0.0.1
+    instance-enabled-onit: true
+    lease-expiration-duration-in-seconds: 60
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/

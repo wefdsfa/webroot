@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils
+END
+QrCodeUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/QrCodeUtil.class
+END
+DocumentUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/17383/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/DocumentUtil.class
+END
+HttpClientUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/HttpClientUtil.class
+END
+ResultUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/ResultUtil.class
+END
+FileUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/FileUtil.class
+END
+DocumentUtil$1SqlValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Code/!svn/ver/17289/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/DocumentUtil$1SqlValue.class
+END
+InstantUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/InstantUtil.class
+END
+LicenseUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/LicenseUtil.class
+END
+OfficialSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/OfficialSystem.class
+END
+ExcelUtil$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/ExcelUtil$1.class
+END
+SerializeUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/SerializeUtil.class
+END
+SortUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/SortUtil.class
+END
+XchsIdGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/XchsIdGenerator.class
+END
+DateTimeUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/DateTimeUtil.class
+END
+EmptyUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/EmptyUtil.class
+END
+ExceptionUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/ExceptionUtil.class
+END
+EntityRedisSerializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/EntityRedisSerializer.class
+END
+ExcelUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/ExcelUtil.class
+END
+CryptUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/CryptUtil.class
+END
+CodeEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/CodeEnum.class
+END
+ZipUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/ZipUtil.class
+END
+DocumentUtil$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/17289/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/DocumentUtil$1.class
+END
+EnumUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/EnumUtil.class
+END
+RedisUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/RedisUtil.class
+END
+XwpfTUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/XwpfTUtil.class
+END
+WordUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/17050/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/WordUtil.class
+END
+XchsIdFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/utils/XchsIdFactory.class
+END

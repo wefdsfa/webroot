@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_service_registry/WEB-INF/lib-provided
+END
+spring-boot-starter-tomcat-2.0.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_service_registry/WEB-INF/lib-provided/spring-boot-starter-tomcat-2.0.0.RELEASE.jar
+END
+tomcat-embed-websocket-8.5.28.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_service_registry/WEB-INF/lib-provided/tomcat-embed-websocket-8.5.28.jar
+END
+tomcat-embed-core-8.5.28.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_service_registry/WEB-INF/lib-provided/tomcat-embed-core-8.5.28.jar
+END
+tomcat-embed-el-8.5.28.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_service_registry/WEB-INF/lib-provided/tomcat-embed-el-8.5.28.jar
+END
+ecj-3.12.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_service_registry/WEB-INF/lib-provided/ecj-3.12.3.jar
+END
+tomcat-embed-jasper-8.5.28.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_service_registry/WEB-INF/lib-provided/tomcat-embed-jasper-8.5.28.jar
+END

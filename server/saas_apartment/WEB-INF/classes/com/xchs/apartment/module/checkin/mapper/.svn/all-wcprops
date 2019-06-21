@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper
+END
+SelfChooseHousingMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper/SelfChooseHousingMapper.class
+END
+CollegeAllocationUserMapper$UserMapperProvider$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper/CollegeAllocationUserMapper$UserMapperProvider$1.class
+END
+SelfChooseBatchUserMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper/SelfChooseBatchUserMapper.class
+END
+CollegeAllocationHousingMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper/CollegeAllocationHousingMapper.class
+END
+ManagerAllocationHousingMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper/ManagerAllocationHousingMapper.class
+END
+SelfChooseBatchUserMapper$UserMapperProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper/SelfChooseBatchUserMapper$UserMapperProvider.class
+END
+ManagerAllocationUserMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper/ManagerAllocationUserMapper.class
+END
+CollegeAllocationUserMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper/CollegeAllocationUserMapper.class
+END
+BatchMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper/BatchMapper.class
+END
+CollegeAllocationUserMapper$UserMapperProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper/CollegeAllocationUserMapper$UserMapperProvider.class
+END
+SelfChooseBatchUserMapper$UserMapperProvider$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/mapper/SelfChooseBatchUserMapper$UserMapperProvider$1.class
+END

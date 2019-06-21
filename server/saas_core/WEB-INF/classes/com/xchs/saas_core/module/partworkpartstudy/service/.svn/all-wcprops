@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Code/!svn/ver/17383/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partworkpartstudy/service
+END
+StatisticsService.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partworkpartstudy/service/StatisticsService.class
+END
+FlowRuntimeService.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partworkpartstudy/service/FlowRuntimeService.class
+END
+PwpsConfigService.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partworkpartstudy/service/PwpsConfigService.class
+END
+UnitService.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partworkpartstudy/service/UnitService.class
+END
+PositionSalaryService.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16648/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partworkpartstudy/service/PositionSalaryService.class
+END
+PositionUserService.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partworkpartstudy/service/PositionUserService.class
+END
+PositionService.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/17210/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partworkpartstudy/service/PositionService.class
+END
+FlowSettingService.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partworkpartstudy/service/FlowSettingService.class
+END

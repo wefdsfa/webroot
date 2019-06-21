@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_service_registry/WEB-INF/classes
+END
+logback-spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_service_registry/WEB-INF/classes/logback-spring.xml
+END
+application.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_service_registry/WEB-INF/classes/application.yml
+END

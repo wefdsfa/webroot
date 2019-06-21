@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_payment/WEB-INF/classes/com/xchs/payment/rpc/entity
+END
+JobDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_payment/WEB-INF/classes/com/xchs/payment/rpc/entity/JobDTO.class
+END
+UserDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_payment/WEB-INF/classes/com/xchs/payment/rpc/entity/UserDTO.class
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/entity/po
+END
+RuntimeIdentityPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/entity/po/RuntimeIdentityPO.class
+END
+HistoryHandleLogPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/entity/po/HistoryHandleLogPO.class
+END
+ProcessArchivePO.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/entity/po/ProcessArchivePO.class
+END
+FormDataCachePO.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/entity/po/FormDataCachePO.class
+END
+RuntimeProcessInstanceDifferencePO.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/entity/po/RuntimeProcessInstanceDifferencePO.class
+END
+RuntimeCarbonCopyPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/entity/po/RuntimeCarbonCopyPO.class
+END
+RuntimeTaskPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/entity/po/RuntimeTaskPO.class
+END
+RuntimeProcessInstancePO.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/entity/po/RuntimeProcessInstancePO.class
+END

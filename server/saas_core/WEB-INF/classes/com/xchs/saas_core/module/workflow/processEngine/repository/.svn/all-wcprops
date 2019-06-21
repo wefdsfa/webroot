@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Code/!svn/ver/17289/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/repository
+END
+RuntimeIdentityRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/repository/RuntimeIdentityRepository.class
+END
+HistoryHandleLogRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/repository/HistoryHandleLogRepository.class
+END
+ProcessArchiveRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/repository/ProcessArchiveRepository.class
+END
+FormDataCacheRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/repository/FormDataCacheRepository.class
+END
+RuntimeProcessInstanceDifferenceRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/repository/RuntimeProcessInstanceDifferenceRepository.class
+END
+RuntimeCarbonCopyRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/repository/RuntimeCarbonCopyRepository.class
+END
+RuntimeTaskRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Code/!svn/ver/17289/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/repository/RuntimeTaskRepository.class
+END
+RuntimeProcessInstanceRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/processEngine/repository/RuntimeProcessInstanceRepository.class
+END

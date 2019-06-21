@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/vo
+END
+RoleMenuVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/vo/RoleMenuVO.class
+END
+RoleUserTableVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/vo/RoleUserTableVO.class
+END
+RoleAreaVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/vo/RoleAreaVO.class
+END
+AuthorityMenuVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/vo/AuthorityMenuVO.class
+END
+RoleUserVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/vo/RoleUserVO.class
+END
+RoleVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/vo/RoleVO.class
+END
+DictVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/vo/DictVO.class
+END
+DictTypeVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/vo/DictTypeVO.class
+END

@@ -1,0 +1,12 @@
+INSERT INTO `authority_menu` (`id`, `code`, `level`, `name`, `parent_id`, `rank`, `url`, `sort`) VALUES ('27', 'SCHOOL_ANOUNCEMENT', '1', '校级公告管理', NULL, 'configurable', '/announcement/announcementManage/school?id=school', '25');
+INSERT INTO `authority_menu` (`id`, `code`, `level`, `name`, `parent_id`, `rank`, `url`, `sort`) VALUES ('28', 'COLLEGE_ANOUNCEMENT', '1', '院级公告管理', NULL, 'configurable', '/announcement/announcementManage/college?id=college', '26');
+INSERT INTO `authority_menu` (`id`, `code`, `level`, `name`, `parent_id`, `rank`, `url`, `sort`) VALUES ('29', 'INSTRUCTOR_ANOUNCEMENT', '1', '辅导员公告管理', NULL, 'bindSystemRole', '/announcement/announcementManage/instructor?id=instructor', '27');
+
+
+INSERT INTO `authority_role` (`id`, `name`, `source`, `create_time`, `is_delete`, `update_time`, `rank`) VALUES ('19', '校级公告负责人', 'systemDefined', NULL, b'0', NULL, 'schoolRole');
+INSERT INTO `authority_role` (`id`, `name`, `source`, `create_time`, `is_delete`, `update_time`, `rank`) VALUES ('20', '院级公告负责人', 'systemDefined', NULL, b'0', NULL, 'collegeRole');
+
+
+INSERT INTO `rel_role_menu` (`role_id`, `menu_id`) VALUES ('19', '27');
+INSERT INTO `rel_role_menu` (`role_id`, `menu_id`) VALUES ('20', '28');
+INSERT INTO `rel_role_menu` (`role_id`, `menu_id`) VALUES ('1', '29');

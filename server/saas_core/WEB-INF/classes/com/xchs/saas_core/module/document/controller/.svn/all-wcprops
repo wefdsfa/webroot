@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller
+END
+DataColumnController.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16648/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/DataColumnController.class
+END
+InfoSettingController.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16709/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/InfoSettingController.class
+END
+StatisticsController.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/StatisticsController.class
+END
+TeacherController.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/TeacherController.class
+END
+ImageDataController.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/ImageDataController.class
+END
+DocumentController.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Code/!svn/ver/16949/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/DocumentController.class
+END
+UserController.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/UserController.class
+END
+StudentManageController.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/17050/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/StudentManageController.class
+END
+UserCertificationController.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16878/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/UserCertificationController.class
+END
+DocumentLogsController.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16390/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/DocumentLogsController.class
+END
+StudentController.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/StudentController.class
+END

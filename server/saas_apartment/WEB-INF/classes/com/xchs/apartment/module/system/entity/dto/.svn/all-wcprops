@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/dto
+END
+MenuDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/dto/MenuDTO.class
+END
+DictTypeDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/dto/DictTypeDTO.class
+END
+RoleUserTableDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/dto/RoleUserTableDTO.class
+END
+RoleDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/dto/RoleDTO.class
+END
+DictDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/entity/dto/DictDTO.class
+END

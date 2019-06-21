@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/domain
+END
+MySqlConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/domain/MySqlConfig.class
+END
+MongoDbConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/domain/MongoDbConfig.class
+END
+ExcelCheckResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/domain/ExcelCheckResult.class
+END
+Result.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/domain/Result.class
+END
+TableContent.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/domain/TableContent.class
+END
+TablePage.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/domain/TablePage.class
+END
+School.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/domain/School.class
+END
+ExcelData.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/domain/ExcelData.class
+END

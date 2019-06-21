@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" scanPeriod="60 seconds" debug="false">
+    <!--
+    scan设置为true时，配置文件如果发生改变，将会被重新加载，默认值为true
+    scanPeriod设置监测配置文件是否有修改的时间间隔，如果没有给出时间单位，默认单位是毫秒。当scan为true时，此属性生效。默认的时间间隔为1分钟。
+    debug设置为true时，将打印出logback内部日志信息，实时查看logback运行状态。默认值为false。-->
+    <!--
+   说明：
+   1、日志级别及文件
+       日志记录采用分级记录，级别与日志文件名相对应，不同级别的日志信息记录到不同的日志文件中
+       例如：error级别记录到log_error_xxx.log或log_error.log（该文件为当前记录的日志文件），而log_error_xxx.log为归档日志，
+       日志文件按日期记录，同一天内，若日志文件大小等于或大于2M，则按0、1、2...顺序分别命名
+       例如log-level-2013-12-21.0.log
+       其它级别的日志也是如此。
+   2、文件路径
+       若开发、测试用，在Eclipse中运行项目，则到Eclipse的安装路径查找logs文件夹，以相对路径../logs。
+       若部署到Tomcat下，则在Tomcat下的logs文件中
+   3、Appender
+       FILEERROR对应error级别，文件名以log-error-xxx.log形式命名
+       FILEWARN对应warn级别，文件名以log-warn-xxx.log形式命名
+       FILEINFO对应info级别，文件名以log-info-xxx.log形式命名
+       FILEDEBUG对应debug级别，文件名以log-debug-xxx.log形式命名
+       stdout将日志信息输出到控制上，为方便开发测试使用
+-->
+    <springProperty scope="context" name="serviceName" source="spring.application.name" defaultValue="unknown"/>
+    <property name="log.path" value="logs"/>
+    <property name="log.filenamePrefix" value="saas-${serviceName}"/>
+    <property name="log.charset" value="UTF-8"/>
+    <timestamp key="byDay" datePattern="yyyy-MM-dd"/>
+
+    <property name="log.consolePattern"
+              value="%d{yyyy-MM-dd HH:mm:ss.SSS} %highlight(%5level) %magenta(%5(${PID:- })) %cyan(%-22X{requestId:-master}) %property{serviceName} --- [%15.15thread] %cyan(%-46.46logger{46}) : %msg%n"/>
+    <property name="log.filePattern"
+              value="%d{yyyy-MM-dd HH:mm:ss.SSS} %5level %5(${PID:- }) %-22X{requestId:-master} %property{serviceName} --- [%15.15thread] %-46.46logger{46} : %msg%n"/>
+    <!-- 控制台打印日记 -->
+    <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${log.consolePattern}</pattern>
+            <charset>${log.charset}</charset>
+        </encoder>
+    </appender>
+
+    <!-- 日志记录器，日期滚动记录 -->
+    <appender name="combineFile" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!-- 正在记录的日志文件的路径及文件名 -->
+        <File>${log.path}/${log.filenamePrefix}-${byDay}.log</File>
+        <!--如果是 true，日志被追加到文件结尾，如果是 false，清空现存文件，默认是true-->
+        <append>true</append>
+        <!-- 日志记录器的滚动策略，按大小，按日期记录 -->
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${log.path}/${log.filenamePrefix}-%d{yyyy-MM-dd}.log.%i</fileNamePattern>
+            <!-- 除按日志记录之外，还配置了日志文件不能超过设定值，若超过，日志文件会以索引0开始，命名日志文件-->
+            <maxFileSize>256MB</maxFileSize>
+            <!-- <MaxHistory>30</MaxHistory>  文件保存最大天数-->
+        </rollingPolicy>
+        <!-- 追加方式记录日志
+        <append>true</append>-->
+        <encoder>
+            <pattern>${log.filePattern}</pattern>
+            <charset>${log.charset}</charset>
+        </encoder>
+    </appender>
+
+    <appender name="errorFile" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${log.path}/${log.filenamePrefix}-error-${byDay}.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${log.path}/${log.filenamePrefix}-error-%d{yyyy-MM-dd}.log.%i</fileNamePattern>
+            <maxFileSize>256MB</maxFileSize>
+        </rollingPolicy>
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>ERROR</level>
+        </filter>
+        <encoder>
+            <pattern>${log.filePattern}</pattern>
+            <charset>${log.charset}</charset>
+        </encoder>
+    </appender>
+
+    <!--各个节点的优先级：root<append<loger-->
+    <root level="INFO">
+        <appender-ref ref="console"/>
+        <appender-ref ref="combineFile"/>
+        <appender-ref ref="errorFile"/>
+    </root>
+
+    <logger name="com.apache.ibatis" level="TRACE"/>
+    <logger name="java.sql.Connection" level="INFO"/>
+    <logger name="java.sql.Statement" level="INFO"/>
+    <logger name="java.sql.PreparedStatement" level="INFO"/>
+
+    <!-- 测试环境+开发环境. -->
+    <springProfile name="test,dev">
+        <logger name="com.xchs" level="DEBUG"/>
+    </springProfile>
+
+    <!-- 生产环境 -->
+    <springProfile name="prod">
+        <logger name="com.xchs" level="INFO"/>
+    </springProfile>
+</configuration>

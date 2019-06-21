@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto
+END
+UserInfoTypeSortDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/UserInfoTypeSortDTO.class
+END
+StudentPersonalContactDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/StudentPersonalContactDTO.class
+END
+DocumentChangeLogsDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16390/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/DocumentChangeLogsDTO.class
+END
+ImagesAndNamesDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/ImagesAndNamesDTO.class
+END
+UserAndAccountDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/UserAndAccountDTO.class
+END
+UserDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/UserDTO.class
+END
+StudentStatisticExportDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/StudentStatisticExportDTO.class
+END
+StudentExportDataDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/StudentExportDataDTO.class
+END
+UserAndRelationshipDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/UserAndRelationshipDTO.class
+END
+DataDefinitionTypeDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/DataDefinitionTypeDTO.class
+END
+StudentManageSearchDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/17050/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/StudentManageSearchDTO.class
+END
+ClassAndUserDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/ClassAndUserDTO.class
+END
+AdvanceSearchDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/17050/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/AdvanceSearchDTO.class
+END
+UserUpdateBaseInfoDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/UserUpdateBaseInfoDTO.class
+END
+InfoBusinessFormSettingDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/InfoBusinessFormSettingDTO.class
+END
+TreeDataDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/TreeDataDTO.class
+END
+ExtendFieldDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/ExtendFieldDTO.class
+END
+StudentExportDataAndImagesDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/StudentExportDataAndImagesDTO.class
+END
+ModifyRecordAndLogsDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16390/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/ModifyRecordAndLogsDTO.class
+END
+StudentCategoryStatItemDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/StudentCategoryStatItemDTO.class
+END
+DataDefinitionColumnDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/DataDefinitionColumnDTO.class
+END
+StudentStatisticsDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/StudentStatisticsDTO.class
+END
+ExcelFiledCheckDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto/ExcelFiledCheckDTO.class
+END

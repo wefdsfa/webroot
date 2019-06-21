@@ -1,0 +1,58 @@
+10
+
+dir
+17850
+http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module
+http://192.168.9.220:8098/svn/Code
+
+
+
+2019-04-25T17:54:08.444496Z
+16383
+chenlx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+299aa6cb-b56a-0f48-8763-06283d695278
+
+unit
+dir
+
+inandout
+dir
+
+operationlog
+dir
+
+checkin
+dir
+
+system
+dir
+
+accommodationresource
+dir
+
+statistic
+dir
+
+payment
+dir
+
+user
+dir
+
+document
+dir
+

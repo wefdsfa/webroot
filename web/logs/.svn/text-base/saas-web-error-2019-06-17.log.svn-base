@@ -1,0 +1,373 @@
+2019-06-17 10:43:10.883 error 14180 master                 web --- [process-14180] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/getEnrollResult?name=%E7%9F%B3%E4%B9%A6%E5%87%BD&studentNo=18150203154164&idCardNo=080016',
+  method: 'GET',
+  json: true,
+  body: { name: '石书函', studentNo: '18150203154164', idCardNo: '080016' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default',
+     'X-Request-Id': 'd61d5c92-fb03-4804-819' },
+  forever: true } { code: '32004', message: '已过查询有效期！', data: null }
+2019-06-17 11:00:19.054 error 14180 master                 web --- [process-14180] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/query/635/applyOperateStatus',
+  method: 'PUT',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default',
+     'X-Request-Id': '0a5555e4-8b3f-4477-96d' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: 'Could not open JDBC Connection for transaction; nested exception is java.lang.IllegalStateException: Cannot determine target DataSource for lookup key []' }
+2019-06-17 15:25:33.000 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/intention/getMajorInfo?pageIndex=0&pageSize=10&lang=&province=%E5%B0%BC%E6%97%A5%E8%92%99%E5%8F%A4&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '4dc904f9-f0d6-44ee-9cc' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '10',
+     lang: '',
+     province: '尼日蒙古',
+     page: 0,
+     size: '10' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: 'nested exception is org.apache.ibatis.binding.BindingException: Parameter \'landProvince\' not found. Available parameters are [teacherId, land, param3, param1, po, param2]' }
+2019-06-17 15:25:37.109 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/intention/getMajorInfo?pageIndex=0&pageSize=10&lang=&province=%E5%86%85%E8%92%99%E5%8F%A4&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '7bbe880e-a47e-401f-91b' },
+  body: 
+   { pageIndex: '0',
+     pageSize: '10',
+     lang: '',
+     province: '内蒙古',
+     page: 0,
+     size: '10' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: 'nested exception is org.apache.ibatis.binding.BindingException: Parameter \'landProvince\' not found. Available parameters are [teacherId, land, param3, param1, po, param2]' }
+2019-06-17 15:40:16.640 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/tutor/check?userNo=111111',
+  method: 'GET',
+  json: true,
+  body: { userNo: '111111' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '74693c7b-da01-4546-829' },
+  forever: true } { code: '10001', message: '参数数据无效！', data: null }
+2019-06-17 16:06:40.371 error   900 master                 web --- [process-900  ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/archives/intention/getMajorInfo?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-06-17 16:06:40.373 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/intention/getMajorInfo?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '042ba162-2ad4-4f44-9cc' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { message: '系统升级中...' }
+2019-06-17 16:06:45.114 error   900 master                 web --- [process-900  ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/archives/intention/getMajorInfo?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-06-17 16:06:45.118 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/intention/getMajorInfo?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '153d2640-790f-4c1d-a00' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { message: '系统升级中...' }
+2019-06-17 16:08:47.861 error   900 master                 web --- [process-900  ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/message/quiry?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-06-17 16:08:47.862 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '6888fb4b-fb78-4f23-919' },
+  forever: true } { message: '系统升级中...' }
+2019-06-17 16:08:47.992 error   900 master                 web --- [process-900  ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/relationship/instructor/check?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-06-17 16:08:47.996 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/relationship/instructor/check?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '474e1f1a-6111-4c35-827' },
+  forever: true } { message: '系统升级中...' }
+2019-06-17 16:09:18.951 error   900 master                 web --- [process-900  ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/currentUser/menus?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-06-17 16:09:18.952 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/currentUser/menus?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '8d9a45ba-ec6a-419a-87f' },
+  forever: true } { message: '系统升级中...' }
+2019-06-17 16:09:18.959 error   900 master                 web --- [process-900  ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/processEngine/tasks/todo/apps?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-06-17 16:09:18.964 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/tasks/todo/apps?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'ba642bc8-aeed-4486-a8a' },
+  forever: true } { message: '系统升级中...' }
+2019-06-17 16:09:18.967 error   900 master                 web --- [process-900  ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/announcement/list/10?pageSize=20&pageIndex=0&type=all&page=0&size=20',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-06-17 16:09:18.967 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/announcement/list/10?pageSize=20&pageIndex=0&type=all&page=0&size=20',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '0ceca214-f088-4bd2-afc' },
+  body: 
+   { pageSize: '20',
+     pageIndex: '0',
+     type: 'all',
+     page: 0,
+     size: '20' },
+  forever: true } { message: '系统升级中...' }
+2019-06-17 16:09:18.968 error   900 master                 web --- [process-900  ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/processEngine/tasks/todo/transfer/page?pageSize=10&pageIndex=0',
+        method: 'GET',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-06-17 16:09:18.969 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/tasks/todo/transfer/page?pageSize=10&pageIndex=0',
+  method: 'GET',
+  json: true,
+  body: { pageSize: '10', pageIndex: '0' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '38b19e29-9cb9-47ff-8d7' },
+  forever: true } { message: '系统升级中...' }
+2019-06-17 16:09:18.970 error   900 master                 web --- [process-900  ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/processEngine/processInstances/myCarbonCopy?pageSize=10&pageIndex=0',
+        method: 'GET',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-06-17 16:09:18.971 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/processInstances/myCarbonCopy?pageSize=10&pageIndex=0',
+  method: 'GET',
+  json: true,
+  body: { pageSize: '10', pageIndex: '0' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '8f9c624c-df6e-4cb0-9b1' },
+  forever: true } { message: '系统升级中...' }
+2019-06-17 16:09:28.763 error   900 master                 web --- [process-900  ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/processEngine/myProcessInstances?pageSize=20&pageIndex=0&page=0&size=20',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-06-17 16:09:28.766 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/myProcessInstances?pageSize=20&pageIndex=0&page=0&size=20',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '527e4f7a-5d6a-424c-a0f' },
+  body: { pageSize: '20', pageIndex: '0', page: 0, size: '20' },
+  forever: true } { message: '系统升级中...' }
+2019-06-17 16:10:44.799 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/updateTeacher',
+  method: 'POST',
+  json: true,
+  body: 
+   { studentNo: [ '', '1234', '', '1234', '', '1234' ],
+     userId: '30920122202446' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'dd19f0b7-872f-4808-91d' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: 'Required List parameter \'studentNo\' is not present' }
+2019-06-17 16:11:20.573 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/updateTeacher',
+  method: 'POST',
+  json: true,
+  body: { studentNo: [ '' ], userId: '30920122202446' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '43c074a6-bc90-487c-b16' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: 'Required List parameter \'studentNo\' is not present' }
+2019-06-17 16:11:30.640 error   900 master                 web --- [process-900  ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/updateTeacher',
+  method: 'POST',
+  json: true,
+  body: { studentNo: [ '1234' ], userId: '30920122202446' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '2d4022f5-3439-474c-90a' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: 'Required List parameter \'studentNo\' is not present' }

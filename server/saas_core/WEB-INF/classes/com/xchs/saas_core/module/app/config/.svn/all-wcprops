@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/17557/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/config
+END
+ApproveRoleLevelEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/config/ApproveRoleLevelEnum.class
+END
+BusinessLimitApiUpdateTypeEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/17557/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/config/BusinessLimitApiUpdateTypeEnum.class
+END
+AppCacheConstant.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/config/AppCacheConstant.class
+END
+UploadConstant.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/config/UploadConstant.class
+END
+BusinessLimitTypeEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/config/BusinessLimitTypeEnum.class
+END
+AppCategoryEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/config/AppCategoryEnum.class
+END
+AppSettingTypeEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/config/AppSettingTypeEnum.class
+END
+AppTypeEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/config/AppTypeEnum.class
+END

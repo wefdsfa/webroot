@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/rpc/entity
+END
+AllMessageInput.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/rpc/entity/AllMessageInput.class
+END
+JobVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/rpc/entity/JobVO.class
+END
+MessageInput.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/rpc/entity/MessageInput.class
+END

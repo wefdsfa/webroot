@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/module/message/entity/po
+END
+SettingInputPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/module/message/entity/po/SettingInputPO.class
+END
+SettingOutputPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/module/message/entity/po/SettingOutputPO.class
+END
+MessageUserPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/module/message/entity/po/MessageUserPO.class
+END
+MessagePO.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/module/message/entity/po/MessagePO.class
+END

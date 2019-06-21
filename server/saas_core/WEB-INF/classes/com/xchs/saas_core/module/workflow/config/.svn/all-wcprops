@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/17290/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config
+END
+CollectorTableInitializationMode.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Code/!svn/ver/17290/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/CollectorTableInitializationMode.class
+END
+FormConstant.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/FormConstant.class
+END
+HandleActionEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/HandleActionEnum.class
+END
+ComponentTypeEnum$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/ComponentTypeEnum$1.class
+END
+ComponentSearchTypeEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/16390/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/ComponentSearchTypeEnum.class
+END
+OperatorEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/OperatorEnum.class
+END
+ProcessInstanceStatusSearchEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/ProcessInstanceStatusSearchEnum.class
+END
+ProcessEngineStatTypeEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/ProcessEngineStatTypeEnum.class
+END
+ProcessInstanceResultEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/ProcessInstanceResultEnum.class
+END
+ComponentTypeEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/ComponentTypeEnum.class
+END
+ComponentSearchType.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/ComponentSearchType.class
+END
+ComponentSearchItemRelationEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16390/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/ComponentSearchItemRelationEnum.class
+END
+ProcessInstanceStatusEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/ProcessInstanceStatusEnum.class
+END
+FlowNodeCategoryEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/FlowNodeCategoryEnum.class
+END
+DataTypeEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/DataTypeEnum.class
+END
+WorkflowApplicationType.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/WorkflowApplicationType.class
+END
+ComponentInitializationModeEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/ComponentInitializationModeEnum.class
+END
+DataAuthorityEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/DataAuthorityEnum.class
+END
+DataModifyTypeEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/DataModifyTypeEnum.class
+END
+DistributaryCategoryEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/workflow/config/DistributaryCategoryEnum.class
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/manage/impl
+END
+ChangeManageImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/manage/impl/ChangeManageImpl.class
+END
+SelectOptionManageImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/manage/impl/SelectOptionManageImpl.class
+END
+CheckInCalibrationManageImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/manage/impl/CheckInCalibrationManageImpl.class
+END

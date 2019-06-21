@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Code/!svn/ver/17557/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/entity/vo
+END
+PartyBuildUserTableVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/entity/vo/PartyBuildUserTableVO.class
+END
+PartyBuildOrganizationTableVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Code/!svn/ver/17557/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/entity/vo/PartyBuildOrganizationTableVO.class
+END
+PartyBuildUserVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/entity/vo/PartyBuildUserVO.class
+END
+PartyMemberTableVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/entity/vo/PartyMemberTableVO.class
+END
+PartyBuildOrganizationVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/entity/vo/PartyBuildOrganizationVO.class
+END

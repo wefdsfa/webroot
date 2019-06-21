@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/service/impl
+END
+BedServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/service/impl/BedServiceImpl.class
+END
+ZoneServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/service/impl/ZoneServiceImpl.class
+END
+RoomServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/service/impl/RoomServiceImpl.class
+END
+BuildingServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/service/impl/BuildingServiceImpl.class
+END
+BedServiceImpl$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/service/impl/BedServiceImpl$1.class
+END
+RoomServiceImpl$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/service/impl/RoomServiceImpl$1.class
+END
+AssetsServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/service/impl/AssetsServiceImpl.class
+END
+BuildingServiceImpl$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/service/impl/BuildingServiceImpl$1.class
+END
