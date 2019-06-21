@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/service/impl
+END
+RoleServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/service/impl/RoleServiceImpl.class
+END
+DictServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/system/service/impl/DictServiceImpl.class
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/aggregation/repository
+END
+LibInterLibRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/aggregation/repository/LibInterLibRepository.class
+END
+ResidenceDocumentRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/aggregation/repository/ResidenceDocumentRepository.class
+END
+LibGraduateCheckRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/aggregation/repository/LibGraduateCheckRepository.class
+END
+LibAutoPrintCheckRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/aggregation/repository/LibAutoPrintCheckRepository.class
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/entity/po
+END
+RoomPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/entity/po/RoomPO.class
+END
+BuildingPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/entity/po/BuildingPO.class
+END
+AssetsPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/entity/po/AssetsPO.class
+END
+BedPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/entity/po/BedPO.class
+END
+ZonePO.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/accommodationresource/entity/po/ZonePO.class
+END

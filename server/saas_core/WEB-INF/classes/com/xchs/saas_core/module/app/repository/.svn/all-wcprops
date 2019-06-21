@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository
+END
+AppReportNameRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/AppReportNameRepository.class
+END
+AppSettingRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/AppSettingRepository.class
+END
+AppRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/AppRepository.class
+END
+AppTypeRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/AppTypeRepository.class
+END
+UserCertificationRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/UserCertificationRepository.class
+END
+PopularAppRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/PopularAppRepository.class
+END
+AppReportCountRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/AppReportCountRepository.class
+END
+AppCollectRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/AppCollectRepository.class
+END
+BusinessSettingRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/BusinessSettingRepository.class
+END
+BusinessLimitRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/BusinessLimitRepository.class
+END
+BusinessRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/BusinessRepository.class
+END
+AppReportCountConditionRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Code/!svn/ver/16390/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/AppReportCountConditionRepository.class
+END
+ApproveRoleUserRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/ApproveRoleUserRepository.class
+END
+ApproveRoleRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/ApproveRoleRepository.class
+END
+BusinessStudentRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/BusinessStudentRepository.class
+END
+BusinessTimeRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository/BusinessTimeRepository.class
+END

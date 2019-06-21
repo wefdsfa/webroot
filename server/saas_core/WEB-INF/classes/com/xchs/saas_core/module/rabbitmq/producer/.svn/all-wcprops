@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/rabbitmq/producer
+END
+MessageProducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/rabbitmq/producer/MessageProducer.class
+END

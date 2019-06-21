@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/16396/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/module/message/controller
+END
+MessageExpandFunctionController.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/module/message/controller/MessageExpandFunctionController.class
+END
+MessageBasicFunctionController.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/module/message/controller/MessageBasicFunctionController.class
+END
+CommonFunctionController.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/module/message/controller/CommonFunctionController.class
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/service/impl
+END
+RelClassServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/service/impl/RelClassServiceImpl.class
+END
+InstructorServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/17050/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/service/impl/InstructorServiceImpl.class
+END
+RelationshipServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/service/impl/RelationshipServiceImpl.class
+END
+PartTimeInstructorServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/service/impl/PartTimeInstructorServiceImpl.class
+END

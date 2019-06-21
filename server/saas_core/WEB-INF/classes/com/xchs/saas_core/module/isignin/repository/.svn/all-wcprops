@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/repository
+END
+ProjectPeopleRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/repository/ProjectPeopleRepository.class
+END
+SignInPeopleRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/repository/SignInPeopleRepository.class
+END
+ProjectSignInCacheRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/repository/ProjectSignInCacheRepository.class
+END
+ProjectExcludePeopleRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/repository/ProjectExcludePeopleRepository.class
+END
+ProjectAgentRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/repository/ProjectAgentRepository.class
+END
+ProjectRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/repository/ProjectRepository.class
+END
+SignInRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/repository/SignInRepository.class
+END
+ProjectAgentRoleRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/repository/ProjectAgentRoleRepository.class
+END
+ProjectTypeRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/repository/ProjectTypeRepository.class
+END

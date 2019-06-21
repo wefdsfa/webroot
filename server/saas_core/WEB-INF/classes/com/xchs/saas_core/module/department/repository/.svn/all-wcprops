@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/16648/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/department/repository
+END
+DepartmentRuleRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/department/repository/DepartmentRuleRepository.class
+END
+DepartmentRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/department/repository/DepartmentRepository.class
+END
+DepartmentStaffRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16648/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/department/repository/DepartmentStaffRepository.class
+END
+DepartmentStaffLogRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/department/repository/DepartmentStaffLogRepository.class
+END

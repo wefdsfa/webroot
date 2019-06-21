@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Code/!svn/ver/17624/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration
+END
+V2.131_20190427.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/16647/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.131_20190427.sql
+END
+V2.103_20190419.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/16433/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.103_20190419.sql
+END
+V2.133_20190507.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/16947/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.133_20190507.sql
+END
+V2.300Table_20190603.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/17557/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.300Table_20190603.sql
+END
+V2.134_20190517.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/17050/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.134_20190517.sql
+END
+V2.301Table_20190612.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/17624/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.301Table_20190612.sql
+END
+V2.130Table_20190424.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/16647/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.130Table_20190424.sql
+END
+V2.132Table_20190505.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/16947/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.132Table_20190505.sql
+END
+V2.131Table_20190427.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/16647/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.131Table_20190427.sql
+END
+V2.133Table_20190506.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/16947/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.133Table_20190506.sql
+END
+V2.134Table_20190517.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/17050/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.134Table_20190517.sql
+END
+V2.102_2019418.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/16647/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.102_2019418.sql
+END
+V1.9100_20190323.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V1.9100_20190323.sql
+END
+V2.000_20190322.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.000_20190322.sql
+END
+V2.001_20190403.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.001_20190403.sql
+END
+V2.102_20190411.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/16647/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.102_20190411.sql
+END
+V2.100_20190404.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.100_20190404.sql
+END
+V2.002_20190404.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.002_20190404.sql
+END
+V2.133Table_220190506.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/17050/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.133Table_220190506.sql
+END
+V2.300_20190603.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/17557/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.300_20190603.sql
+END
+V2.301_20190611.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/17624/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.301_20190611.sql
+END
+V1.910_20190301.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V1.910_20190301.sql
+END
+V2.101_20190408.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.101_20190408.sql
+END
+V2.102_20190418.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/16647/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.102_20190418.sql
+END
+V2.101Table_20190501.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/16647/saas-deploy/gray/saas_core/WEB-INF/classes/db/migration/V2.101Table_20190501.sql
+END

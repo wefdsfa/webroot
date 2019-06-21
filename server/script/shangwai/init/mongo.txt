@@ -1,0 +1,192 @@
+﻿db.getCollection('form_template').insert({
+    "_id" : ObjectId("5ae147c265249c38288e9f00"),
+    "name" : "",
+    "components" : [ 
+        {
+            "name" : "input_1524713135123",
+            "title" : "姓名",
+            "componentType" : "input",
+            "properties" : {
+                "basic" : {
+                    "exportable": true,
+                    "placeholder" : "请输入姓名",
+                    "rows" : 1.0,
+                    "options" : [],
+                    "precision" : 0.0,
+                    "dateFormat" : "",
+                    "tableFields" : [],
+                    "autoNumber" : false
+                },
+                "style" : {
+                    "color" : "",
+                    "fontSize" : ""
+                },
+                "verification" : {
+                    "regexExpression" : "",
+                    "maxLength" : 15.0,
+                    "minLength" : 0.0,
+                    "fileFormat" : []
+                }
+            },
+            "initialization" : {
+                "mode" : "systemValue",
+                "properties" : {
+                    "dataField" : "name",
+                    "sqlQuery" : "",
+                    "method" : "",
+                    "fixedValue" : "",
+                    "params" : [],
+                    "dataSet" : "com.xchs.saas_core.module.document.entity.po.StudentBaseInfoPO",
+                    "url" : "",
+                    "key" : ""
+                }
+            },
+            "events" : [ 
+                {
+                    "name" : "FOCUS",
+                    "cases" : []
+                }, 
+                {
+                    "name" : "BLUR",
+                    "cases" : []
+                }, 
+                {
+                    "name" : "CHANGE",
+                    "cases" : []
+                }
+            ],
+            "location" : {
+                "top" : 0,
+                "left" : 0
+            },
+            "size" : {
+                "width" : 3,
+                "height" : 1
+            }
+        }, 
+        {
+            "name" : "input_1524713181564",
+            "title" : "学号",
+            "componentType" : "input",
+            "properties" : {
+                "basic" : {
+                    "exportable": true,
+                    "placeholder" : "请输入学号",
+                    "rows" : 1,
+                    "options" : [],
+                    "precision" : 0,
+                    "dateFormat" : "",
+                    "tableFields" : [],
+                    "autoNumber" : false
+                },
+                "style" : {
+                    "color" : "",
+                    "fontSize" : ""
+                },
+                "verification" : {
+                    "regexExpression" : "",
+                    "fileFormat" : []
+                }
+            },
+            "initialization" : {
+                "mode" : "systemValue",
+                "properties" : {
+                    "dataField" : "studentId",
+                    "sqlQuery" : "",
+                    "method" : "",
+                    "fixedValue" : "",
+                    "params" : [],
+                    "dataSet" : "com.xchs.saas_core.module.document.entity.po.StudentBaseInfoPO",
+                    "url" : "",
+                    "key" : ""
+                }
+            },
+            "events" : [ 
+                {
+                    "name" : "FOCUS",
+                    "cases" : []
+                }, 
+                {
+                    "name" : "BLUR",
+                    "cases" : []
+                }, 
+                {
+                    "name" : "CHANGE",
+                    "cases" : []
+                }
+            ],
+            "location" : {
+                "top" : 0,
+                "left" : 3
+            },
+            "size" : {
+                "width" : 3,
+                "height" : 1
+            }
+        }, 
+        {
+            "name" : "input_1524713390790",
+            "title" : "学院",
+            "componentType" : "input",
+            "properties" : {
+                "basic" : {
+                    "exportable": true,
+                    "placeholder" : "请输入学院",
+                    "rows" : 1,
+                    "options" : [],
+                    "precision" : 0,
+                    "dateFormat" : "",
+                    "tableFields" : [],
+                    "autoNumber" : false
+                },
+                "style" : {
+                    "color" : "",
+                    "fontSize" : ""
+                },
+                "verification" : {
+                    "regexExpression" : "",
+                    "fileFormat" : []
+                }
+            },
+            "initialization" : {
+                "mode" : "systemValue",
+                "properties" : {
+                    "dataField" : "college",
+                    "sqlQuery" : "",
+                    "method" : "",
+                    "fixedValue" : "",
+                    "params" : [],
+                    "dataSet" : "com.xchs.saas_core.module.document.entity.po.StudentStatusInfoPO",
+                    "url" : "",
+                    "key" : ""
+                }
+            },
+            "events" : [ 
+                {
+                    "name" : "FOCUS",
+                    "cases" : []
+                }, 
+                {
+                    "name" : "BLUR",
+                    "cases" : []
+                }, 
+                {
+                    "name" : "CHANGE",
+                    "cases" : []
+                }
+            ],
+            "location" : {
+                "top" : 0,
+                "left" : 6
+            },
+            "size" : {
+                "width" : 3,
+                "height" : 1
+            }
+        }
+    ],
+    "property" : {
+        "script" : "window.onload = function () {\n\n\n\n\n}"
+    },
+    "updateTime" : ISODate("2018-04-26T03:30:22.030Z")
+})

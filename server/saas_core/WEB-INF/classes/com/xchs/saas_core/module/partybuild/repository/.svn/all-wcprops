@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/repository
+END
+PartyBuildUserRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/repository/PartyBuildUserRepository.class
+END
+PartyBuildOrganizationRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/repository/PartyBuildOrganizationRepository.class
+END

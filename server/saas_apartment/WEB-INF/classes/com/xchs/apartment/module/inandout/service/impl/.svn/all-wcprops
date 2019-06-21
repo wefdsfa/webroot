@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/service/impl
+END
+InAndOutManageServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/service/impl/InAndOutManageServiceImpl.class
+END
+ChangeManageServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/service/impl/ChangeManageServiceImpl.class
+END
+InAndOutRecordServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/service/impl/InAndOutRecordServiceImpl.class
+END

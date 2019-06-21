@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Code/!svn/ver/17210/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/controller
+END
+SignInController.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/controller/SignInController.class
+END
+SignInStatisticsController$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/controller/SignInStatisticsController$1.class
+END
+ProjectController$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Code/!svn/ver/17210/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/controller/ProjectController$1.class
+END
+SignInPeopleController.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/controller/SignInPeopleController.class
+END
+SignInStatisticsController.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/controller/SignInStatisticsController.class
+END
+ProjectController.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/17210/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/controller/ProjectController.class
+END

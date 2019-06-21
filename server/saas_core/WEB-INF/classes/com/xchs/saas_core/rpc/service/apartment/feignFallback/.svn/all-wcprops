@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/rpc/service/apartment/feignFallback
+END
+HystrixClientWithFallbackFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/rpc/service/apartment/feignFallback/HystrixClientWithFallbackFactory.class
+END
+HystrixClientFallbackFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/rpc/service/apartment/feignFallback/HystrixClientFallbackFactory.class
+END
+HystrixClientFallbackFactory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/rpc/service/apartment/feignFallback/HystrixClientFallbackFactory$1.class
+END

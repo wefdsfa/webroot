@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service
+END
+TeacherService.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/TeacherService.class
+END
+UserService.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/UserService.class
+END
+DocumentService.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/DocumentService.class
+END
+StudentStatusOrganizationService.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/StudentStatusOrganizationService.class
+END
+StudentManageService.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/17210/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/StudentManageService.class
+END
+DocumentLogsService.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/16390/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/DocumentLogsService.class
+END
+StudentService.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/StudentService.class
+END
+AdvanceSearchService.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/17050/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/AdvanceSearchService.class
+END
+DataColumnService.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Code/!svn/ver/16648/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/DataColumnService.class
+END
+ImageDataImportService.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/ImageDataImportService.class
+END
+StudentExportService.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/StudentExportService.class
+END
+InfoSettingService.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/InfoSettingService.class
+END
+DocumentStatisticsService.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/service/DocumentStatisticsService.class
+END

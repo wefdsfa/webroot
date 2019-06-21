@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po
+END
+ClassCommitteePo.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/ClassCommitteePo.class
+END
+ClassCommitteeTypePo.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/ClassCommitteeTypePo.class
+END
+InstructorTeachingSituationPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorTeachingSituationPO.class
+END
+TeaVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/TeaVO.class
+END
+InstructorRewardPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorRewardPO.class
+END
+InstructorBaseInfoPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorBaseInfoPO.class
+END
+InstructorTrainingInfoPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorTrainingInfoPO.class
+END
+InstructorProfessionalPositionPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorProfessionalPositionPO.class
+END
+RelInstructorStudentPo.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/RelInstructorStudentPo.class
+END
+InstructorWorkExperiencePO.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorWorkExperiencePO.class
+END
+InstructorDegreePO.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorDegreePO.class
+END
+InstructorScientificResearchPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorScientificResearchPO.class
+END
+InstructorProjectStudyPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorProjectStudyPO.class
+END
+InstructorAdministrativeDutiesPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorAdministrativeDutiesPO.class
+END
+ClassTeacherPo.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/ClassTeacherPo.class
+END
+InstructorProfessionalCertificatePO.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorProfessionalCertificatePO.class
+END
+ClassPo.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/ClassPo.class
+END

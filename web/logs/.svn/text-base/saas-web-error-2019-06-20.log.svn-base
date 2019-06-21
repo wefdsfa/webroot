@@ -1,0 +1,909 @@
+2019-06-20 10:18:47.978 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '83d4ef6c-f94f-40dd-bbf' },
+  forever: true } { timestamp: '2019-06-20T02:18:43.296+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 10:18:48.267 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'c6ffe875-4e1b-4283-885' },
+  forever: true } { timestamp: '2019-06-20T02:18:43.685+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 10:40:53.462 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'c34b0ed9-28a2-4ff4-899' },
+  forever: true } { timestamp: '2019-06-20T02:40:48.875+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 10:40:53.930 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'd9c24be7-367c-40b1-8a1' },
+  forever: true } { timestamp: '2019-06-20T02:40:49.342+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 10:41:00.873 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070//archives/middle/deleteMiddle?',
+  method: 'DELETE',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '73d601db-ed7e-4fe6-8b4' },
+  forever: true } { code: 'ENOTFOUND',
+  message: 'ENOTFOUND',
+  stack: 'Error: getaddrinfo ENOTFOUND archives archives:80\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)',
+  name: 'ENOTFOUNDError',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'archives',
+  host: 'archives',
+  port: 80,
+  status: 500 }
+2019-06-20 10:41:01.945 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070//archives/middle/deleteMiddle?',
+  method: 'DELETE',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '9e343cb9-2145-4c0b-bc7' },
+  forever: true } { code: 'ENOTFOUND',
+  message: 'ENOTFOUND',
+  stack: 'Error: getaddrinfo ENOTFOUND archives archives:80\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)',
+  name: 'ENOTFOUNDError',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'archives',
+  host: 'archives',
+  port: 80,
+  status: 500 }
+2019-06-20 10:41:14.901 error  3772 master                 web --- [process-3772 ] build\webpack.dev.conf.js      : { SyntaxError: Unexpected token i in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\types\json.js:158:10)
+    at parse (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\types\json.js:83:15)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\read.js:121:18
+    at invokeCallback (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:224:16)
+    at done (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  expose: true,
+  statusCode: 400,
+  status: 400,
+  body: 'id%5B%5D=21&id%5B%5D=23',
+  type: 'entity.parse.failed',
+  context: 
+   { originalUrl: '/api//archives/middle/deleteMiddle',
+     method: 'DELETE',
+     ips: [],
+     query: {},
+     body: {} } }
+2019-06-20 10:41:56.258 error  3772 master                 web --- [process-3772 ] build\webpack.dev.conf.js      : { SyntaxError: Unexpected token i in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\types\json.js:158:10)
+    at parse (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\types\json.js:83:15)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\read.js:121:18
+    at invokeCallback (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:224:16)
+    at done (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  expose: true,
+  statusCode: 400,
+  status: 400,
+  body: 'id%5B%5D=21&id%5B%5D=23',
+  type: 'entity.parse.failed',
+  context: 
+   { originalUrl: '/api/archives/middle/deleteMiddle',
+     method: 'DELETE',
+     ips: [],
+     query: {},
+     body: {} } }
+2019-06-20 10:46:02.749 error  3772 master                 web --- [process-3772 ] build\webpack.dev.conf.js      : { SyntaxError: Unexpected token i in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\types\json.js:158:10)
+    at parse (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\types\json.js:83:15)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\read.js:121:18
+    at invokeCallback (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:224:16)
+    at done (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  expose: true,
+  statusCode: 400,
+  status: 400,
+  body: 'id%5B%5D=21&id%5B%5D=23',
+  type: 'entity.parse.failed',
+  context: 
+   { originalUrl: '/api/archives/middle/deleteMiddle',
+     method: 'DELETE',
+     ips: [],
+     query: {},
+     body: {} } }
+2019-06-20 10:52:55.453 error  3772 master                 web --- [process-3772 ] build\webpack.dev.conf.js      : { SyntaxError: Unexpected token " in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\types\json.js:158:10)
+    at parse (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\types\json.js:83:15)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_body-parser@1.19.0@body-parser\lib\read.js:121:18
+    at invokeCallback (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:224:16)
+    at done (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_raw-body@2.4.0@raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  expose: true,
+  statusCode: 400,
+  status: 400,
+  body: '"delete"',
+  type: 'entity.parse.failed',
+  context: 
+   { originalUrl: '/table-data/archives/middle/getListMiddle&id=21,23',
+     method: 'POST',
+     ips: [],
+     query: {},
+     body: {} } }
+2019-06-20 10:53:56.911 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/middle/getListMiddle?id=21%2C23&page=&size=',
+  method: 'DELETE',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '66909a15-682f-4ba2-af4' },
+  body: { id: '21,23', page: NaN, size: undefined },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: 'Request method \'DELETE\' not supported' }
+2019-06-20 10:58:27.308 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'a04061ec-f45d-4040-99b' },
+  forever: true } { timestamp: '2019-06-20T02:58:22.714+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 10:58:27.701 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '07460e68-05b0-4bcb-8c4' },
+  forever: true } { timestamp: '2019-06-20T02:58:23.110+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:00:38.851 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'f19d3119-cb84-4aec-83c' },
+  forever: true } { timestamp: '2019-06-20T03:00:34.258+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:00:39.238 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'abceaa0e-a34a-4a5d-992' },
+  forever: true } { timestamp: '2019-06-20T03:00:34.646+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:03:14.665 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/middle/deleteMiddle?id=',
+  method: 'DELETE',
+  json: true,
+  body: { id: '' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'da577a2c-878b-4973-a8a' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: '\r\n### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1\r\n### The error may involve com.xchs.admissions.module.enrollManage.mapper.MiddleMapper.deleteMiddle-Inline\r\n### The error occurred while setting parameters\r\n### SQL: delete from admissions_middle_school where id in\r\n### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1\n; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1' }
+2019-06-20 11:03:18.151 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/middle/deleteMiddle?id=',
+  method: 'DELETE',
+  json: true,
+  body: { id: '' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '241d90a4-66cc-442b-8cf' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: '\r\n### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1\r\n### The error may involve com.xchs.admissions.module.enrollManage.mapper.MiddleMapper.deleteMiddle-Inline\r\n### The error occurred while setting parameters\r\n### SQL: delete from admissions_middle_school where id in\r\n### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1\n; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1' }
+2019-06-20 11:03:19.138 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/middle/deleteMiddle?id=',
+  method: 'DELETE',
+  json: true,
+  body: { id: '' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'b3cfa72a-ca0b-4f02-879' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: '\r\n### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1\r\n### The error may involve com.xchs.admissions.module.enrollManage.mapper.MiddleMapper.deleteMiddle-Inline\r\n### The error occurred while setting parameters\r\n### SQL: delete from admissions_middle_school where id in\r\n### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1\n; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1' }
+2019-06-20 11:03:42.872 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '1d945a6c-1123-4427-a54' },
+  forever: true } { timestamp: '2019-06-20T03:03:38.280+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:03:43.170 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '95500ab8-69d6-4eca-93c' },
+  forever: true } { timestamp: '2019-06-20T03:03:38.578+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:03:50.039 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/middle/deleteMiddle?id=',
+  method: 'DELETE',
+  json: true,
+  body: { id: '' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '2f8b6ba3-a80e-404f-8cb' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: '\r\n### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1\r\n### The error may involve com.xchs.admissions.module.enrollManage.mapper.MiddleMapper.deleteMiddle-Inline\r\n### The error occurred while setting parameters\r\n### SQL: delete from admissions_middle_school where id in\r\n### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1\n; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\' at line 1' }
+2019-06-20 11:04:07.218 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '5a5b8cef-c29e-408b-9f0' },
+  forever: true } { timestamp: '2019-06-20T03:04:02.622+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:04:07.529 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '3f6990f3-4b01-4a98-a16' },
+  forever: true } { timestamp: '2019-06-20T03:04:02.926+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:05:30.662 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'c47d46b7-69d2-4d11-978' },
+  forever: true } { timestamp: '2019-06-20T03:05:26.066+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:05:31.006 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '22dc7666-ab2f-442a-a7a' },
+  forever: true } { timestamp: '2019-06-20T03:05:26.410+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:27:21.416 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/permissions/getProvinceSecond?value=&lang=',
+  method: 'GET',
+  json: true,
+  body: { value: '', lang: '' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '4a34bbe3-5077-4b8d-ada' },
+  forever: true } { code: '10001', message: '参数数据无效！', data: null }
+2019-06-20 11:30:46.645 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/permissions/getProvinceSecond?value=&lang=',
+  method: 'GET',
+  json: true,
+  body: { value: '', lang: '' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '92d3a7cd-88c8-4b2f-b83' },
+  forever: true } { code: '10001', message: '参数数据无效！', data: null }
+2019-06-20 11:30:49.518 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/permissions/getProvinceSecond?value=&lang=',
+  method: 'GET',
+  json: true,
+  body: { value: '', lang: '' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'cda057ea-c820-4005-9f3' },
+  forever: true } { code: '10001', message: '参数数据无效！', data: null }
+2019-06-20 11:41:20.291 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/permissions/getProvinceSecond?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '7d4ed6a1-344a-413a-b5c' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: 'Required String parameter \'value\' is not present' }
+2019-06-20 11:41:27.908 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/permissions/getProvinceSecond?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '8719e780-c371-4470-82b' },
+  forever: true } { code: '00001',
+  message: '请求失败',
+  data: 'Required String parameter \'value\' is not present' }
+2019-06-20 11:43:42.004 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'da9c73ed-b8bb-4253-bb6' },
+  forever: true } { timestamp: '2019-06-20T03:43:37.401+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:43:42.349 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '3c316c70-e451-415e-986' },
+  forever: true } { timestamp: '2019-06-20T03:43:37.746+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:47:00.115 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'b301c7bf-42f6-4477-add' },
+  forever: true } { timestamp: '2019-06-20T03:46:55.512+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:47:00.653 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '649de3dd-419d-4ec4-96b' },
+  forever: true } { timestamp: '2019-06-20T03:46:56.032+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:49:00.169 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '6ee8a9a6-987c-4dc0-b5b' },
+  forever: true } { timestamp: '2019-06-20T03:48:55.566+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:49:00.500 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '75f48589-3a7a-408e-9b3' },
+  forever: true } { timestamp: '2019-06-20T03:48:55.895+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:52:58.292 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'defc608a-930d-466e-9ae' },
+  forever: true } { timestamp: '2019-06-20T03:52:53.686+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 11:52:58.577 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '53f7abb9-609c-40c1-b5a' },
+  forever: true } { timestamp: '2019-06-20T03:52:53.972+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 14:27:15.984 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'b9630cdc-14f8-438b-8f1' },
+  forever: true } { timestamp: '2019-06-20T06:27:18.380+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 14:27:16.195 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '93cdbecf-96e6-40ea-892' },
+  forever: true } { timestamp: '2019-06-20T06:27:18.592+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 14:30:14.695 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '12ae2446-c01b-4487-89e' },
+  forever: true } { timestamp: '2019-06-20T06:30:17.092+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 14:30:15.146 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'cd7479cc-cb6b-419a-ab1' },
+  forever: true } { timestamp: '2019-06-20T06:30:17.542+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 14:38:35.852 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'b2955345-364e-408c-905' },
+  forever: true } { timestamp: '2019-06-20T06:38:38.248+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 14:38:36.493 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'b900ba8d-3923-4c37-827' },
+  forever: true } { timestamp: '2019-06-20T06:38:38.881+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 14:47:43.203 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '56f913ff-5aa0-4add-97b' },
+  forever: true } { timestamp: '2019-06-20T06:47:45.598+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 14:47:43.495 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '87df5dc8-380a-479b-869' },
+  forever: true } { timestamp: '2019-06-20T06:47:45.884+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 15:35:47.236 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'da83e6c5-a58b-40a3-b09' },
+  forever: true } { timestamp: '2019-06-20T07:35:49.618+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 15:35:47.599 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '27f8ffd0-349e-4747-936' },
+  forever: true } { timestamp: '2019-06-20T07:35:49.964+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 15:36:12.056 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/processInstances/5cff6cdbe9d2000464435883/operators?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'e3bae03a-7f36-4fb8-867' },
+  forever: true } { code: '50002', message: '数据有误！', data: null }
+2019-06-20 15:36:37.469 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/processInstances/5cff6cdbe9d2000464435883/operators?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '06810cf8-f39f-4603-803' },
+  forever: true } { code: '50002', message: '数据有误！', data: null }
+2019-06-20 15:51:07.264 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/processInstances/5cff6cdbe9d2000464435883/operators?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '33775267-8070-4d4f-a65' },
+  forever: true } { code: '50002', message: '数据有误！', data: null }
+2019-06-20 15:51:25.471 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/processInstances/5cff6cdbe9d2000464435883/operators?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '5ac02d36-a4bd-4603-afe' },
+  forever: true } { code: '50002', message: '数据有误！', data: null }
+2019-06-20 15:52:17.529 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/processInstances/5cff6cdbe9d2000464435883/operators?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '2e75ab6e-6213-445f-bf4' },
+  forever: true } { code: '50002', message: '数据有误！', data: null }
+2019-06-20 15:59:18.357 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'bf19f046-ebf7-44ca-85f' },
+  forever: true } { timestamp: '2019-06-20T07:59:20.734+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 15:59:19.008 error  3772 master                 web --- [process-3772 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '1743283b-ecac-45a4-937' },
+  forever: true } { timestamp: '2019-06-20T07:59:21.386+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:38:19.517 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '68007dde-1ade-486e-aaf' },
+  forever: true } { timestamp: '2019-06-20T08:38:21.887+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:38:19.922 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '69cb7edd-0880-4bb4-859' },
+  forever: true } { timestamp: '2019-06-20T08:38:22.292+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:38:35.719 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '87d8d104-fa77-42d6-b8c' },
+  forever: true } { timestamp: '2019-06-20T08:38:38.090+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:38:36.083 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '59958ebc-c6cd-4ee5-b43' },
+  forever: true } { timestamp: '2019-06-20T08:38:38.450+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:40:26.711 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '58a2b94e-f9bd-4ab1-b43' },
+  forever: true } { timestamp: '2019-06-20T08:40:29.082+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:40:27.071 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'd0eca908-cc6e-4727-90a' },
+  forever: true } { timestamp: '2019-06-20T08:40:29.438+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:44:34.265 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/user/getLoginType?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'a5bddc0b-850e-4fc6-a24' },
+  forever: true } { timestamp: '2019-06-20T08:44:36.631+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:44:34.267 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/user/getSchoolInfo?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '0d44758c-67ac-4250-8d3' },
+  forever: true } { timestamp: '2019-06-20T08:44:36.631+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:44:34.271 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/platform/recruitmentList?pageIndex=0&pageSize=7',
+  method: 'GET',
+  json: true,
+  body: { pageIndex: '0', pageSize: '7' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '2996b145-0457-4c5a-bae' },
+  forever: true } { timestamp: '2019-06-20T08:44:36.636+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:44:34.273 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/user/getLoginType?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '8a00b8c6-1d80-4ea0-a00' },
+  forever: true } { timestamp: '2019-06-20T08:44:36.636+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:44:43.122 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/platform/recruitmentList?pageIndex=0&pageSize=7',
+  method: 'GET',
+  json: true,
+  body: { pageIndex: '0', pageSize: '7' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '3230c8ea-3ed0-45a2-bf9' },
+  forever: true } { timestamp: '2019-06-20T08:44:45.484+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:44:43.131 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/user/getLoginType?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'f83793da-2bb1-4c11-94d' },
+  forever: true } { timestamp: '2019-06-20T08:44:45.484+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:44:43.147 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/user/getSchoolInfo?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '18128330-f232-4c17-8e5' },
+  forever: true } { timestamp: '2019-06-20T08:44:45.484+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:44:43.153 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/user/getLoginType?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '073c3111-09d6-4549-b8d' },
+  forever: true } { timestamp: '2019-06-20T08:44:45.496+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:45:26.224 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'dea3f825-cdd6-48ac-a43' },
+  forever: true } { timestamp: '2019-06-20T08:45:28.591+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 16:45:26.687 error  4264 master                 web --- [process-4264 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '1e053e04-1f99-48a5-89a' },
+  forever: true } { timestamp: '2019-06-20T08:45:29.056+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 19:11:35.617 error  6844 master                 web --- [process-6844 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '8fd9bfa1-671f-4163-92b' },
+  forever: true } { timestamp: '2019-06-20T11:11:34.804+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }
+2019-06-20 19:11:35.827 error  6844 master                 web --- [process-6844 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'f9967f3e-634f-4a13-967' },
+  forever: true } { timestamp: '2019-06-20T11:11:35.081+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: undefined }

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Code/!svn/ver/16396/saas-deploy/gray/saas_message/WEB-INF/classes
+END
+application-dev.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/application-dev.yml
+END
+logback-spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/logback-spring.xml
+END
+application.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/application.yml
+END
+application-prod.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_message/WEB-INF/classes/application-prod.yml
+END

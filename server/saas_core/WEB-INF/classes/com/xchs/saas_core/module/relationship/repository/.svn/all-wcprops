@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/repository
+END
+ClassCommitteeRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/repository/ClassCommitteeRepository.class
+END
+ClassCommitteeTypeRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/repository/ClassCommitteeTypeRepository.class
+END
+ClassTeacherRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/repository/ClassTeacherRepository.class
+END
+RelationshipRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/repository/RelationshipRepository.class
+END
+InstructorBaseInfoRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/repository/InstructorBaseInfoRepository.class
+END
+ClassRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/repository/ClassRepository.class
+END

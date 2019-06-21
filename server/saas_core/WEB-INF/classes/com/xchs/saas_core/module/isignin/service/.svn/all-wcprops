@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/17832/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/service
+END
+SignInPeopleService.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/service/SignInPeopleService.class
+END
+ProjectService.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/17210/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/service/ProjectService.class
+END
+SignInService.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/isignin/service/SignInService.class
+END

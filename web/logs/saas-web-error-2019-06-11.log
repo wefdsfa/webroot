@@ -1,0 +1,1415 @@
+2019-06-11 14:34:38.951 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560234876203&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '8f02cfeb-2e31-42f6-b3f' },
+  body: 
+   { timestamp: '1560234876203',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:37:33.205 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235052497&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'd095bd0c-86d4-4dd4-aba' },
+  body: 
+   { timestamp: '1560235052497',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:37:59.491 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235076788&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'caaa366d-84c5-45f0-b83' },
+  body: 
+   { timestamp: '1560235076788',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:39:13.423 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235152778&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '55bd4f59-8c99-4bca-b9f' },
+  body: 
+   { timestamp: '1560235152778',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:40:06.204 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235205250&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '4e3453df-4c88-49ac-992' },
+  body: 
+   { timestamp: '1560235205250',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:43:28.586 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235407953&pageIndex=0&pageSize=99999&lang=&province=%E5%A4%A9%E6%B4%A5&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2016&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '97b01b54-5f20-46ce-a72' },
+  body: 
+   { timestamp: '1560235407953',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '天津',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2016',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:43:29.670 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235409044&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '19dc3d2b-40f5-4613-bce' },
+  body: 
+   { timestamp: '1560235409044',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:43:36.856 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235414335&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '49b64949-dc83-4f41-b25' },
+  body: 
+   { timestamp: '1560235414335',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:47:04.070 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235621394&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '445e6d20-dc98-4263-825' },
+  body: 
+   { timestamp: '1560235621394',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:48:27.325 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235706688&pageIndex=0&pageSize=99999&lang=&province=%E5%A4%A9%E6%B4%A5&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'd5dec57f-839d-438c-9c8' },
+  body: 
+   { timestamp: '1560235706688',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '天津',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:48:30.580 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235709952&pageIndex=0&pageSize=99999&lang=&province=%E6%B2%B3%E5%8C%97&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '8242ad40-3f00-4f0e-97f' },
+  body: 
+   { timestamp: '1560235709952',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '河北',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:48:31.790 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235711159&pageIndex=0&pageSize=99999&lang=&province=%E4%BA%91%E5%8D%97&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '854857bd-a804-4f46-814' },
+  body: 
+   { timestamp: '1560235711159',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '云南',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:48:32.566 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235711939&pageIndex=0&pageSize=99999&lang=&province=%E8%B4%B5%E5%B7%9E&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'e5abbf20-62e0-44c3-92c' },
+  body: 
+   { timestamp: '1560235711939',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '贵州',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:48:33.338 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235712706&pageIndex=0&pageSize=99999&lang=&province=%E9%87%8D%E5%BA%86&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'af7d3c6d-589e-434a-9a0' },
+  body: 
+   { timestamp: '1560235712706',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '重庆',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:51:16.309 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560235872536&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'e758df0b-aeda-49c7-895' },
+  body: 
+   { timestamp: '1560235872536',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '',
+     division: '理工',
+     year: '2018',
+     educationLevel: '',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:55:39.937 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560236139297&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&year=2018&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'fb15c680-f3ac-4b4b-a31' },
+  body: 
+   { timestamp: '1560236139297',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     year: '2018',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 14:58:13.298 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560236290529&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&year=2018&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'f77bcdb1-ca19-4429-8e8' },
+  body: 
+   { timestamp: '1560236290529',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     year: '2018',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '10002', message: '参数为空！', data: null }
+2019-06-11 16:12:12.980 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560240730153&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '4ebf8540-1707-4fc7-ae5' },
+  body: 
+   { timestamp: '1560240730153',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:12:14.622 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/pcMajorEnroll?timestamp=1560240734594&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '522df908-bac6-44c5-8b0' },
+  body: 
+   { timestamp: '1560240734594',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:12:15.829 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560240735800&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '0e168b95-b80e-4c9b-b4e' },
+  body: 
+   { timestamp: '1560240735800',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:12:16.626 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/pcMajorEnroll?timestamp=1560240736597&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'b6c3c481-2661-4b47-825' },
+  body: 
+   { timestamp: '1560240736597',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:12:17.363 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560240737336&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '267403b2-28de-40b4-acc' },
+  body: 
+   { timestamp: '1560240737336',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:12:17.934 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/pcMajorEnroll?timestamp=1560240737909&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'a563f93e-54ce-439a-97f' },
+  body: 
+   { timestamp: '1560240737909',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:12:23.965 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560240743931&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '275c4400-5c1d-48d8-8ef' },
+  body: 
+   { timestamp: '1560240743931',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:13:31.375 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560240810274&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'df6c023b-028e-4576-aec' },
+  body: 
+   { timestamp: '1560240810274',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:13:48.876 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/pcMajorEnroll?timestamp=1560240828845&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '6d3c8343-18b1-4b77-b3d' },
+  body: 
+   { timestamp: '1560240828845',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:13:52.139 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560240832109&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '0e6eb84b-1d36-464e-b0d' },
+  body: 
+   { timestamp: '1560240832109',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:14:05.806 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/pcMajorEnroll?timestamp=1560240845774&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'ab295346-011f-4f66-af1' },
+  body: 
+   { timestamp: '1560240845774',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:14:16.530 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560240853806&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'df43d02a-7165-4477-ac3' },
+  body: 
+   { timestamp: '1560240853806',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:14:17.171 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/pcMajorEnroll?timestamp=1560240857144&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '111175e6-c279-48ee-9ca' },
+  body: 
+   { timestamp: '1560240857144',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:14:20.389 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560240860359&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'd4252d04-b009-4961-816' },
+  body: 
+   { timestamp: '1560240860359',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:14:21.110 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/pcMajorEnroll?timestamp=1560240861087&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '8226b676-05d2-46be-8ba' },
+  body: 
+   { timestamp: '1560240861087',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:14:21.793 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560240861770&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '1f5f6e1a-bdf6-4e49-bbb' },
+  body: 
+   { timestamp: '1560240861770',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 16:32:37.174 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/processInstances',
+  method: 'POST',
+  json: true,
+  body: 
+   { id: '',
+     formData: [ [Object], [Object] ],
+     variable: { appId: 81, businessId: 985 } },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '533046b1-2bfe-428c-a1a' },
+  forever: true } { code: '30709', message: '30709', data: null }
+2019-06-11 16:32:54.329 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/processInstances',
+  method: 'POST',
+  json: true,
+  body: 
+   { id: '',
+     formData: [ [Object], [Object] ],
+     variable: { appId: 81, businessId: 985 } },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'd7fb28da-734a-4b92-84d' },
+  forever: true } { code: '30709', message: '30709', data: null }
+2019-06-11 16:43:19.977 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/processInstances',
+  method: 'POST',
+  json: true,
+  body: 
+   { id: '',
+     formData: [ [Object], [Object] ],
+     variable: { appId: 81, businessId: 985 } },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'bb953482-2d65-47c9-a2b' },
+  forever: true } { code: '30709', message: '30709', data: null }
+2019-06-11 17:11:35.911 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/processInstances/5cff6cdbe9d2000464435883/operators?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '8be5fda3-c0e7-48af-80e' },
+  forever: true } { code: '50002', message: '数据有误！', data: null }
+2019-06-11 17:41:33.835 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/pcMajorEnroll?timestamp=1560246093798&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '1e6529db-5ffa-4014-848' },
+  body: 
+   { timestamp: '1560246093798',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 17:41:34.455 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/archives/yearScore/allPcEnroll?timestamp=1560246094394&pageIndex=0&pageSize=99999&lang=&province=%E5%8C%97%E4%BA%AC&enrollmentModels=%E9%A2%84%E7%A7%91%E4%B8%80%E5%B9%B4&division=%E7%90%86%E5%B7%A5&year=2018&educationLevel=%E6%9C%AC%E7%A7%91%E7%94%9F&page=0&size=99999',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '5e2633d3-d651-4ce2-9ce' },
+  body: 
+   { timestamp: '1560246094394',
+     pageIndex: '0',
+     pageSize: '99999',
+     lang: '',
+     province: '北京',
+     enrollmentModels: '预科一年',
+     division: '理工',
+     year: '2018',
+     educationLevel: '本科生',
+     page: 0,
+     size: '99999' },
+  forever: true } { code: '30010', message: '暂无符合条件的记录', data: null }
+2019-06-11 17:57:47.817 error 13584 master                 web --- [process-13584] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/partyMember/page/school/13?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-06-11 17:57:47.818 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/partyMember/page/school/13?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'ce0875dd-8f11-449c-a8f' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { message: '系统升级中...' }
+2019-06-11 17:57:49.617 error 13584 master                 web --- [process-13584] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/partyMember/page/school/12?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-06-11 17:57:49.618 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/partyMember/page/school/12?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '1d5c4dc3-432b-4153-9eb' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { message: '系统升级中...' }
+2019-06-11 17:57:50.693 error 13584 master                 web --- [process-13584] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/partyMember/page/school/13?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-06-11 17:57:50.695 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/partyMember/page/school/13?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '244288eb-81cb-438e-b65' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { message: '系统升级中...' }
+2019-06-11 17:57:51.203 error 13584 master                 web --- [process-13584] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/partyMember/page/school/12?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-06-11 17:57:51.204 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/partyMember/page/school/12?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'bd040cbb-8ae9-459e-940' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { message: '系统升级中...' }
+2019-06-11 17:57:51.743 error 13584 master                 web --- [process-13584] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/partyMember/page/school/11?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-06-11 17:57:51.745 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/partyMember/page/school/11?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '7c316af8-db34-4535-a6c' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { message: '系统升级中...' }
+2019-06-11 17:57:53.332 error 13584 master                 web --- [process-13584] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/system/dicts?dictType=%E7%BB%84%E7%BB%87%E5%85%B3%E7%B3%BB',
+        method: 'GET',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-06-11 17:57:53.334 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/system/dicts?dictType=%E7%BB%84%E7%BB%87%E5%85%B3%E7%B3%BB',
+  method: 'GET',
+  json: true,
+  body: { dictType: '组织关系' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '29692a9e-640d-47b8-b91' },
+  forever: true } { message: '系统升级中...' }
+2019-06-11 17:59:53.357 error 13584 master                 web --- [process-13584] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { options: 
+      { url: 'http://192.168.9.31:8070/partyMember/page/school/11?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+        method: 'GET',
+        json: true,
+        headers: [Object],
+        body: [Object],
+        forever: true } } }
+2019-06-11 17:59:53.358 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/partyMember/page/school/11?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '1838cddc-4b00-49f0-bb8' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { message: '系统升级中...' }
+2019-06-11 18:03:05.536 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/system/dicts?dictType=%E7%BB%84%E7%BB%87%E5%85%B3%E7%B3%BB',
+  method: 'GET',
+  json: true,
+  body: { dictType: '组织关系' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '75cb613a-128e-4122-869' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:03:05.554 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/partyMember/page/school/11?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'e7c047c3-27cf-424f-80d' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:03:40.935 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/allproject?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'ea9e632f-3709-44fd-a1e' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:10:30.217 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/system/dicts?dictType=%E7%BB%84%E7%BB%87%E5%85%B3%E7%B3%BB',
+  method: 'GET',
+  json: true,
+  body: { dictType: '组织关系' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '0aabf3cb-dda9-4cb2-884' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:10:30.247 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/partyMember/page/school/11?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'f6d41fa1-71ad-4346-909' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:16:31.503 error 13584 master                 web --- [process-13584] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/system/dicts?dictType=%E7%BB%84%E7%BB%87%E5%85%B3%E7%B3%BB',
+        method: 'GET',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-06-11 18:16:31.505 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/system/dicts?dictType=%E7%BB%84%E7%BB%87%E5%85%B3%E7%B3%BB',
+  method: 'GET',
+  json: true,
+  body: { dictType: '组织关系' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '85dae4e3-c544-4cfd-958' },
+  forever: true } { message: '系统升级中...' }
+2019-06-11 18:18:31.508 error 13584 master                 web --- [process-13584] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/system/dicts?dictType=%E7%BB%84%E7%BB%87%E5%85%B3%E7%B3%BB',
+        method: 'GET',
+        json: true,
+        body: [Object],
+        headers: [Object],
+        forever: true } } }
+2019-06-11 18:18:31.512 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/system/dicts?dictType=%E7%BB%84%E7%BB%87%E5%85%B3%E7%B3%BB',
+  method: 'GET',
+  json: true,
+  body: { dictType: '组织关系' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '44033608-1f52-41e3-8d2' },
+  forever: true } { message: '系统升级中...' }
+2019-06-11 18:20:20.813 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/partyMember/page/school/11?pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'c7a52b68-74b6-4656-a5d' },
+  body: { pageIndex: '0', pageSize: '10', lang: '', page: 0, size: '10' },
+  forever: true } { code: 'ECONNRESET',
+  message: 'ECONNRESET',
+  stack: 'Error: read ECONNRESET\n    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)',
+  name: 'ECONNRESETError',
+  errno: 'ECONNRESET',
+  syscall: 'read',
+  status: 500 }
+2019-06-11 18:23:29.188 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/message/quiry?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '59cd07b5-c9ea-4aed-8f6' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:29.387 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/relationship/instructor/check?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '7b5b2110-2392-45ca-98a' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:29.434 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/currentUser/menus?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '19ed3c8c-9360-487b-b4d' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:29.988 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/announcement/list/10?pageSize=20&pageIndex=0&type=all&page=0&size=20',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '861915c2-94a3-44ed-b23' },
+  body: 
+   { pageSize: '20',
+     pageIndex: '0',
+     type: 'all',
+     page: 0,
+     size: '20' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.008 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/tasks/todo/transfer/page?pageSize=10&pageIndex=0',
+  method: 'GET',
+  json: true,
+  body: { pageSize: '10', pageIndex: '0' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'b50a188e-bac1-4032-b92' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.010 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/tasks/todo/apps?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'e86238e9-63c7-4da4-aed' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.015 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/myProcessInstances?pageSize=20&pageIndex=0&page=0&size=20',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '36077c12-8853-4f9a-8c9' },
+  body: { pageSize: '20', pageIndex: '0', page: 0, size: '20' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.019 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/processInstances/myCarbonCopy?pageSize=10&pageIndex=0',
+  method: 'GET',
+  json: true,
+  body: { pageSize: '10', pageIndex: '0' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '6572fef5-f174-4c05-808' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.023 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/relationship/instructor/check?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '064e8ae5-5a2a-4ceb-913' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.054 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/type?userType=1',
+  method: 'GET',
+  json: true,
+  body: { userType: '1' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '72e325a8-f125-49f8-8b0' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.074 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/type?userType=2',
+  method: 'GET',
+  json: true,
+  body: { userType: '2' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '58e24700-4248-4360-a24' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.077 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/type?userType=4',
+  method: 'GET',
+  json: true,
+  body: { userType: '4' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '9dbe6515-1edb-4398-b80' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.080 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/type?userType=3',
+  method: 'GET',
+  json: true,
+  body: { userType: '3' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'a0a00ee4-3229-427b-98b' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.083 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/popular?isPublished=true',
+  method: 'GET',
+  json: true,
+  body: { isPublished: 'true' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '9b771ede-72ab-4f02-b18' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.089 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/payment/userallproject?page=0&size=9999',
+  method: 'GET',
+  json: true,
+  body: { page: '0', size: '9999' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '9d128ee0-1877-46df-a1d' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.104 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/sc/activities/types?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '66dbd1b6-6c51-41a6-b54' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.156 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/app/search?category=POPULAR&keyword=&userType=&typeId=&capital=',
+  method: 'GET',
+  json: true,
+  body: 
+   { category: 'POPULAR',
+     keyword: '',
+     userType: '',
+     typeId: '',
+     capital: '' },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '5f9800d5-45a9-4206-ab0' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.159 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/quick/service/allQuickService?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '160e6e8b-64d2-4b07-b85' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }
+2019-06-11 18:23:30.169 error 13584 master                 web --- [process-13584] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/processEngine/stat/applicant?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '36413217-8916-404c-91f' },
+  forever: true } { code: 'ECONNREFUSED',
+  message: 'ECONNREFUSED',
+  stack: 'Error: connect ECONNREFUSED 192.168.9.31:8080\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)',
+  name: 'ECONNREFUSEDError',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '192.168.9.31',
+  port: 8080,
+  status: 500 }

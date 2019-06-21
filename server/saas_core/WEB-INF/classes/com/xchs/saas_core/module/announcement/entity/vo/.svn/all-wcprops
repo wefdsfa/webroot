@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/announcement/entity/vo
+END
+AnnouncementVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/announcement/entity/vo/AnnouncementVO.class
+END
+AnnouncementParamVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/announcement/entity/vo/AnnouncementParamVO.class
+END
+ResultVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/announcement/entity/vo/ResultVO.class
+END
+DeleteFileVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/announcement/entity/vo/DeleteFileVO.class
+END

@@ -1,0 +1,59 @@
+spring:
+  application:
+    name: gateway
+  jmx:
+    default-domain: ${spring.application.name}
+  servlet:
+    multipart:
+      max-file-size: -1
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:8761/eureka/
+server:
+  port: 8080
+logging:
+  config: classpath:logback-spring.xml
+zuul:
+  routes:
+    schedule:
+      path: '/schedule/**'
+      serviceId: schedule
+      strip-prefix: false
+    apartment:
+      path: '/apartment/**'
+      serviceId: apartment
+      strip-prefix: false
+    storage:
+      path: '/storage1/**'
+      serviceId: storage
+      strip-prefix: false
+    payment:
+      path: '/payment/**'
+      serviceId: payment
+      strip-prefix: false
+    message:
+      path: '/message/**'
+      serviceId: message
+      strip-prefix: false
+    employment:
+      path: '/employment/**'
+      serviceId: employment
+      strip-prefix: false
+    core:
+      path: '/**'
+      serviceId: core
+      strip-prefix: false
+  sensitive-headers:
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 12007000 # Hystrix超时时间
+          strategy: THREAD
+ribbon:
+  ReadTimeout: 1200000 # 处理时间
+  ConnectTimeout: 6000 # 连接时间

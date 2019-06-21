@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo
+END
+ManagerAllocationBatchUserVO$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/ManagerAllocationBatchUserVO$1.class
+END
+SelfChooseHousingVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/SelfChooseHousingVO.class
+END
+TeacherAllocationStudentVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/TeacherAllocationStudentVO.class
+END
+SelfChooseBatchVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/SelfChooseBatchVO.class
+END
+ViewSelfChooseUserTableVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/ViewSelfChooseUserTableVO.class
+END
+TeacherAllocationBedVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/TeacherAllocationBedVO.class
+END
+TeacherAllocationRoomVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/TeacherAllocationRoomVO.class
+END
+TeacherAllocationBuildingVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/TeacherAllocationBuildingVO.class
+END
+ManagerAllocationBatchUserVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/ManagerAllocationBatchUserVO.class
+END
+ViewCollegeAllocationUserTableVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/ViewCollegeAllocationUserTableVO.class
+END
+CollegeAllocationBatchVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/CollegeAllocationBatchVO.class
+END
+ManagerAllocationBatchVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/ManagerAllocationBatchVO.class
+END
+TeacherAllocationBatchVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/TeacherAllocationBatchVO.class
+END
+TeacherAllocationFloorVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/vo/TeacherAllocationFloorVO.class
+END

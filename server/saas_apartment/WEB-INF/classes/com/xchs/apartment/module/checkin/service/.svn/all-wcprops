@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/service
+END
+UserChooseService.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/service/UserChooseService.class
+END
+TeacherAllocationService.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/service/TeacherAllocationService.class
+END
+CheckInUserService.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/service/CheckInUserService.class
+END
+CheckInService.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/service/CheckInService.class
+END

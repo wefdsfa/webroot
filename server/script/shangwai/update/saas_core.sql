@@ -1,0 +1,2 @@
+UPDATE `authority_menu` SET `rank`='configurable' WHERE (`code`='COLLEGE_MANAGEMENT') LIMIT 1;
+INSERT INTO `authority_menu` (`code`, `level`, `name`, `rank`, `url`, `sort`) VALUES ('IMPORT_COLLEGE', '1', '学院信息导入', 'requiredSuperAdmin', '/permission/collegeImport', '24');

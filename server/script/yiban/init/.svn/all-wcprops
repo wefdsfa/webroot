@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Code/!svn/ver/16388/saas-deploy/gray/script/yiban/init
+END
+saas_schedule.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Code/!svn/ver/16388/saas-deploy/gray/script/yiban/init/saas_schedule.sql
+END
+mongo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Code/!svn/ver/16388/saas-deploy/gray/script/yiban/init/mongo.txt
+END
+saas_core.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Code/!svn/ver/16388/saas-deploy/gray/script/yiban/init/saas_core.sql
+END

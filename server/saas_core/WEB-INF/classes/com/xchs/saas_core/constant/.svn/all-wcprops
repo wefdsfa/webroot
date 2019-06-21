@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/constant
+END
+RoleCode.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/constant/RoleCode.class
+END
+RabbitMqConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/constant/RabbitMqConstants.class
+END
+DictTypeConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/constant/DictTypeConstants.class
+END
+AnnouncementCode.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/constant/AnnouncementCode.class
+END
+AnnouncementConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/constant/AnnouncementConstants.class
+END
+ResultCode.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/constant/ResultCode.class
+END

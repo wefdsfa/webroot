@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/user/service/impl
+END
+UserServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/user/service/impl/UserServiceImpl.class
+END
+ApartmentPlainServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/user/service/impl/ApartmentPlainServiceImpl.class
+END

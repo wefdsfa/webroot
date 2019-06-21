@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/constants
+END
+InAndOutConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/constants/InAndOutConstants.class
+END
+UserPaymentStatusEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/constants/UserPaymentStatusEnum.class
+END
+StatusEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/inandout/constants/StatusEnum.class
+END

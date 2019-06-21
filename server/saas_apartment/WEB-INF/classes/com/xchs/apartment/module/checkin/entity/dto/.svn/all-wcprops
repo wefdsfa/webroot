@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto
+END
+ApartmentInfoDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/ApartmentInfoDTO.class
+END
+SaveAllocationParamsDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/SaveAllocationParamsDTO.class
+END
+BatchUserSearchParamsDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/BatchUserSearchParamsDTO.class
+END
+CollegeAllocationUserDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/CollegeAllocationUserDTO.class
+END
+BatchUserDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/BatchUserDTO.class
+END
+ManagerAllocationBatchUserDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/ManagerAllocationBatchUserDTO.class
+END
+BatchDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/BatchDTO.class
+END
+ManagerAllocationBatchDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/ManagerAllocationBatchDTO.class
+END
+TeacherAllocationBatchDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/TeacherAllocationBatchDTO.class
+END
+SelfChooseHousingDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/SelfChooseHousingDTO.class
+END
+IntelligentAllocationParamsDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/IntelligentAllocationParamsDTO.class
+END
+IntelligentAllocationStudentDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/IntelligentAllocationStudentDTO.class
+END
+SelfChooseBatchUserDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/SelfChooseBatchUserDTO.class
+END
+AllocationConditionDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/AllocationConditionDTO.class
+END
+ResourceAllocationDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto/ResourceAllocationDTO.class
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Code/!svn/ver/16388/saas-deploy/gray/script/shangwai/update
+END
+saas_schedule.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Code/!svn/ver/16388/saas-deploy/gray/script/shangwai/update/saas_schedule.sql
+END
+saas_core.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Code/!svn/ver/16388/saas-deploy/gray/script/shangwai/update/saas_core.sql
+END
+mongo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Code/!svn/ver/16388/saas-deploy/gray/script/shangwai/update/mongo.txt
+END

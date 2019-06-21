@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/16390/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto
+END
+ActivitySortDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto/ActivitySortDTO.class
+END
+UserCommentId.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto/UserCommentId.class
+END
+SchoolYearDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto/SchoolYearDTO.class
+END
+ActivityStatSearchDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto/ActivityStatSearchDTO.class
+END
+SignUserDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto/SignUserDTO.class
+END
+MemberAndDutyDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/16390/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto/MemberAndDutyDTO.class
+END
+OrganizationDutySearchDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto/OrganizationDutySearchDTO.class
+END
+ExportSignUserDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto/ExportSignUserDTO.class
+END
+UserActivityId.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto/UserActivityId.class
+END
+OrganizationMemberSearchDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto/OrganizationMemberSearchDTO.class
+END
+ActivitySearchDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/entity/dto/ActivitySearchDTO.class
+END

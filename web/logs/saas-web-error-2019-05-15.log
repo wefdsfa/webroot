@@ -1,0 +1,139 @@
+2019-05-15 13:55:41.208 error  7832 master                 web --- [process-7832 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/pwps/positions/page/positions?timeStamp=&pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'a311340a-d632-400f-8c0' },
+  body: 
+   { timeStamp: '',
+     pageIndex: '0',
+     pageSize: '10',
+     lang: '',
+     page: 0,
+     size: '10' },
+  forever: true } { code: '00000', message: '接口访问出错啦！', data: null }
+2019-05-15 13:56:53.810 error  7832 master                 web --- [process-7832 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/pwps/positions/page/positions/25?timeStamp=&pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '369aa860-6232-4435-bda' },
+  body: 
+   { timeStamp: '',
+     pageIndex: '0',
+     pageSize: '10',
+     lang: '',
+     page: 0,
+     size: '10' },
+  forever: true } { code: '00000', message: '接口访问出错啦！', data: null }
+2019-05-15 14:01:29.839 error  7832 master                 web --- [process-7832 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/pwps/positions/page/positions/25?timeStamp=&pageIndex=0&pageSize=10&lang=&page=0&size=10',
+  method: 'GET',
+  json: true,
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '9c8b26cf-b2bc-4c50-973' },
+  body: 
+   { timeStamp: '',
+     pageIndex: '0',
+     pageSize: '10',
+     lang: '',
+     page: 0,
+     size: '10' },
+  forever: true } { code: '00000', message: '接口访问出错啦！', data: null }
+2019-05-15 14:27:49.220 error  7832 master                 web --- [process-7832 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/relationship/reSetInstructorNo',
+  method: 'POST',
+  json: true,
+  body: { studentUserIds: [ null ] },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '26e18f5f-2464-42b5-859' },
+  forever: true } { code: '00000', message: '接口访问出错啦！', data: null }
+2019-05-15 14:31:47.704 error  7832 master                 web --- [process-7832 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/relationship/reSetInstructorNo',
+  method: 'POST',
+  json: true,
+  body: { studentUserIds: [ null ] },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': 'ede9cafd-cf4e-476b-953' },
+  forever: true } { code: '00000', message: '接口访问出错啦！', data: null }
+2019-05-15 14:36:06.085 error  7832 master                 web --- [process-7832 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/relationship/reSetInstructorNo',
+  method: 'POST',
+  json: true,
+  body: { studentUserIds: [ null, null ] },
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default;userNo=30920122202446;userId=284627125896478720;isAdmin=true;type=STUDENT',
+     'X-Request-Id': '5c9f36bc-1795-4f3c-af1' },
+  forever: true } { code: '00000', message: '接口访问出错啦！', data: null }
+2019-05-15 17:37:24.884 error  6176 master                 web --- [process-6176 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/user/getSchoolInfo?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default',
+     'X-Request-Id': '10ede57b-a1ba-4d5f-8c7' },
+  forever: true } { code: '70002', message: '70002', data: null }
+2019-05-15 17:37:24.899 error  6176 master                 web --- [process-6176 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/user/getLoginType?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default',
+     'X-Request-Id': '6776d2ba-05b9-4499-861' },
+  forever: true } { code: '70002', message: '70002', data: null }
+2019-05-15 17:37:32.727 error  6176 master                 web --- [process-6176 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/user/getSchoolInfo?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default',
+     'X-Request-Id': '581f3a88-d172-47e2-af4' },
+  forever: true } { code: '70002', message: '70002', data: null }
+2019-05-15 17:37:32.732 error  6176 master                 web --- [process-6176 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/employment/user/getLoginType?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default',
+     'X-Request-Id': 'a34b9a2f-a77d-452d-b53' },
+  forever: true } { code: '70002', message: '70002', data: null }
+2019-05-15 17:37:37.730 error  6176 master                 web --- [process-6176 ] ..nterceptor\extendResponse.js : { Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread [as _originalOnread] (net.js:628:25)
+    at TCP.<anonymous> (E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }
+2019-05-15 18:41:11.497 error  4848 master                 web --- [process-4848 ] routes\backend.js              : { Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at Socket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at E:\workspace\xchs\saas-web\trunk\saas1.0-1\node_modules\_async-listener@0.6.10@async-listener\glue.js:188:31
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  context: 
+   { option: 
+      { url: 'http://192.168.9.31:8070/firstPage/info?',
+        method: 'GET',
+        json: true,
+        body: {},
+        headers: [Object],
+        forever: true } } }
+2019-05-15 18:41:11.499 error  4848 master                 web --- [process-4848 ] routes\backend.js              : request backend get error: { url: 'http://192.168.9.31:8070/firstPage/info?',
+  method: 'GET',
+  json: true,
+  body: {},
+  headers: 
+   { 'content-type': 'application/json',
+     Authorization: 'schoolId=default',
+     'X-Request-Id': 'b38327a6-afd8-4b54-a83' },
+  forever: true } { message: '系统升级中...' }

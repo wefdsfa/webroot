@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/17624/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/dto
+END
+SearchDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/dto/SearchDTO.class
+END
+CheckClassRoleDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/dto/CheckClassRoleDTO.class
+END
+SearchPredicateDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/dto/SearchPredicateDTO.class
+END
+RelInstructorStudentSearchDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Code/!svn/ver/17624/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/dto/RelInstructorStudentSearchDTO.class
+END
+ClassStudentDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/dto/ClassStudentDTO.class
+END
+CheckRoleResultDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/dto/CheckRoleResultDTO.class
+END
+CheckIsMyManageStudentDTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/dto/CheckIsMyManageStudentDTO.class
+END
