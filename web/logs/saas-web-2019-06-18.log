@@ -1,0 +1,14 @@
+2019-06-18 10:27:14.349 debug  1320 master                 web --- [process-1320 ] build\webpack.dev.conf.js      : starting webpack dev server...
+2019-06-18 10:27:14.731  info  1320 master                 web --- [process-1320 ] routes\file.js                 : [HPM] Proxy created: /  ->  http://192.168.9.31:8070
+2019-06-18 10:27:14.731  info  1320 master                 web --- [process-1320 ] routes\file.js                 : [HPM] Proxy rewrite rule created: "^/upload" ~> ""
+2019-06-18 10:27:14.733  info  1320 master                 web --- [process-1320 ] routes\file.js                 : [HPM] Proxy created: /  ->  http://192.168.9.31:8070
+2019-06-18 10:27:14.733  info  1320 master                 web --- [process-1320 ] routes\file.js                 : [HPM] Proxy rewrite rule created: "^/downloads" ~> ""
+2019-06-18 10:27:14.734  info  1320 master                 web --- [process-1320 ] routes\file.js                 : [HPM] Proxy created: /  ->  http://192.168.9.31:8070
+2019-06-18 10:27:14.734  info  1320 master                 web --- [process-1320 ] routes\file.js                 : [HPM] Proxy created: /  ->  http://192.168.9.31:8070
+2019-06-18 10:38:03.897 debug 24504 master                 web --- [process-24504] build\webpack.dev.conf.js      : starting webpack dev server...
+2019-06-18 10:38:03.971  info 24504 master                 web --- [process-24504] routes\file.js                 : [HPM] Proxy created: /  ->  http://192.168.9.31:8070
+2019-06-18 10:38:03.972  info 24504 master                 web --- [process-24504] routes\file.js                 : [HPM] Proxy rewrite rule created: "^/upload" ~> ""
+2019-06-18 10:38:03.974  info 24504 master                 web --- [process-24504] routes\file.js                 : [HPM] Proxy created: /  ->  http://192.168.9.31:8070
+2019-06-18 10:38:03.974  info 24504 master                 web --- [process-24504] routes\file.js                 : [HPM] Proxy rewrite rule created: "^/downloads" ~> ""
+2019-06-18 10:38:03.975  info 24504 master                 web --- [process-24504] routes\file.js                 : [HPM] Proxy created: /  ->  http://192.168.9.31:8070
+2019-06-18 10:38:03.976  info 24504 master                 web --- [process-24504] routes\file.js                 : [HPM] Proxy created: /  ->  http://192.168.9.31:8070

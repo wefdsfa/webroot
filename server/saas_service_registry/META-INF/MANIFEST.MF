@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: service-registry
+Implementation-Version: 0.0.1
+Built-By: Purshell
+Implementation-Vendor-Id: com.xchs
+Spring-Boot-Version: 2.0.0.RELEASE
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: com.xchs.saasserviceregistry.SaasServiceRegistryApplicati
+ on
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/service-registry
+
