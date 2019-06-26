@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/constant
 http://192.168.9.220:8098/svn/Code
 
@@ -60,40 +60,6 @@ has-props
 
 1329
 
-OrganizationFileConstant.class
-file
-
-
-
-
-2019-06-21T07:01:54.120797Z
-3869c600c1e05745722f573bcbe75587
-2019-05-17T12:18:04.945945Z
-17050
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2395
-
 OrganizationApplyStatus.class
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 1490
+
+OrganizationFileConstant.class
+file
+
+
+
+
+2019-06-21T07:01:54.120797Z
+3869c600c1e05745722f573bcbe75587
+2019-05-17T12:18:04.945945Z
+17050
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2395
 
 ParticipantStatus.class
 file
@@ -434,40 +434,6 @@ has-props
 
 889
 
-ActivityStatus.class
-file
-
-
-
-
-2019-06-21T07:01:54.122797Z
-7418be23e5f3248faaefdb7e406a3c21
-2018-11-02T02:18:55.186089Z
-13027
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1534
-
 SecondClassOrganizationConstant.class
 file
 
@@ -501,6 +467,40 @@ has-props
 
 
 1018
+
+ActivityStatus.class
+file
+
+
+
+
+2019-06-21T07:01:54.122797Z
+7418be23e5f3248faaefdb7e406a3c21
+2018-11-02T02:18:55.186089Z
+13027
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1534
 
 SignType.class
 file

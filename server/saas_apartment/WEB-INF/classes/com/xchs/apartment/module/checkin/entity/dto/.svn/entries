@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/checkin/entity/dto
 http://192.168.9.220:8098/svn/Code
 
@@ -196,40 +196,6 @@ has-props
 
 3667
 
-ManagerAllocationBatchUserDTO.class
-file
-
-
-
-
-2019-06-21T07:02:18.854797Z
-7582650e24f50ed62382e9db31008129
-2019-01-10T14:18:45.414803Z
-14452
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10769
-
 BatchDTO.class
 file
 
@@ -263,6 +229,40 @@ has-props
 
 
 3532
+
+ManagerAllocationBatchUserDTO.class
+file
+
+
+
+
+2019-06-21T07:02:18.854797Z
+7582650e24f50ed62382e9db31008129
+2019-01-10T14:18:45.414803Z
+14452
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10769
 
 ManagerAllocationBatchDTO.class
 file
@@ -400,40 +400,6 @@ has-props
 
 3401
 
-IntelligentAllocationStudentDTO.class
-file
-
-
-
-
-2019-06-21T07:02:18.853797Z
-ff68ff871e013ca85317ae2e55d629c6
-2019-01-10T14:18:45.414803Z
-14452
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2311
-
 SelfChooseBatchUserDTO.class
 file
 
@@ -467,6 +433,40 @@ has-props
 
 
 9361
+
+IntelligentAllocationStudentDTO.class
+file
+
+
+
+
+2019-06-21T07:02:18.853797Z
+ff68ff871e013ca85317ae2e55d629c6
+2019-01-10T14:18:45.414803Z
+14452
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2311
 
 AllocationConditionDTO.class
 file

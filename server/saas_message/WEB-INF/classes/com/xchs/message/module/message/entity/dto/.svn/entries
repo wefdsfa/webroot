@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_message/WEB-INF/classes/com/xchs/message/module/message/entity/dto
 http://192.168.9.220:8098/svn/Code
 
@@ -60,40 +60,6 @@ has-props
 
 1983
 
-CollegeVO.class
-file
-
-
-
-
-2019-06-21T07:02:15.382797Z
-ce481c8b22492b7fd3de5129805f696b
-2019-02-28T11:49:28.856333Z
-14937
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4241
-
 JobVO.class
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 5753
+
+CollegeVO.class
+file
+
+
+
+
+2019-06-21T07:02:15.382797Z
+ce481c8b22492b7fd3de5129805f696b
+2019-02-28T11:49:28.856333Z
+14937
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4241
 
 UserVO.class
 file
@@ -400,40 +400,6 @@ has-props
 
 1802
 
-MessageInput.class
-file
-
-
-
-
-2019-06-21T07:02:15.383797Z
-22534a9c82ab21f18e5df03290c1dcf3
-2018-12-21T10:24:16.376121Z
-14108
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2174
-
 MessageUserOutput.class
 file
 
@@ -467,6 +433,40 @@ has-props
 
 
 1988
+
+MessageInput.class
+file
+
+
+
+
+2019-06-21T07:02:15.383797Z
+22534a9c82ab21f18e5df03290c1dcf3
+2018-12-21T10:24:16.376121Z
+14108
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2174
 
 MessageOutput.class
 file

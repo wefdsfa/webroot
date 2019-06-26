@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_apartment/WEB-INF/classes/template
 http://192.168.9.220:8098/svn/Code
 
@@ -162,14 +162,14 @@ has-props
 
 9258
 
-批量退宿模板.xlsx
+宿舍管理者分配人员导入模板.xlsx
 file
 
 
 
 
-2019-06-21T07:02:19.412797Z
-27e6a47859a8350eee4b59ceee69a884
+2019-06-21T07:02:19.411797Z
+35610963165de71e89275dfe41474fa6
 2019-01-17T10:12:37.485455Z
 14553
 liuzn
@@ -196,14 +196,14 @@ has-props
 
 9258
 
-宿舍管理者分配人员导入模板.xlsx
+批量退宿模板.xlsx
 file
 
 
 
 
-2019-06-21T07:02:19.411797Z
-35610963165de71e89275dfe41474fa6
+2019-06-21T07:02:19.412797Z
+27e6a47859a8350eee4b59ceee69a884
 2019-01-17T10:12:37.485455Z
 14553
 liuzn
@@ -298,40 +298,6 @@ has-props
 
 10847
 
-batchImportRoomTemplate.xlsx
-file
-
-
-
-
-2019-06-21T07:02:19.411797Z
-014b2c24f82f5c6731e90e6e9304a59d
-2019-01-17T10:12:37.485455Z
-14553
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10674
-
 BatchOutTemplate.xlsx
 file
 
@@ -365,6 +331,40 @@ has-props
 
 
 9258
+
+batchImportRoomTemplate.xlsx
+file
+
+
+
+
+2019-06-21T07:02:19.411797Z
+014b2c24f82f5c6731e90e6e9304a59d
+2019-01-17T10:12:37.485455Z
+14553
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10674
 
 批量入住模板.xlsx
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_message/WEB-INF/lib
 http://192.168.9.220:8098/svn/Code
 
@@ -502,40 +502,6 @@ has-props
 
 8566
 
-mapper-base-1.1.3.jar
-file
-
-
-
-
-2019-06-21T07:02:18.379797Z
-ff2296802f399aa4b3205a317d239530
-2019-01-08T09:54:54.807481Z
-14399
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-40448
-
 guice-4.1.0.jar
 file
 
@@ -570,16 +536,16 @@ has-props
 
 674028
 
-bcprov-jdk15on-1.56.jar
+mapper-base-1.1.3.jar
 file
 
 
 
 
-2019-06-21T07:02:18.400797Z
-3c1bc7aaf3449308e34296546078d9f7
-2018-12-18T02:09:05.813024Z
-13910
+2019-06-21T07:02:18.379797Z
+ff2296802f399aa4b3205a317d239530
+2019-01-08T09:54:54.807481Z
+14399
 chenlx
 has-props
 
@@ -602,7 +568,7 @@ has-props
 
 
 
-3448507
+40448
 
 archaius-core-0.7.6.jar
 file
@@ -637,6 +603,40 @@ has-props
 
 
 139662
+
+bcprov-jdk15on-1.56.jar
+file
+
+
+
+
+2019-06-21T07:02:18.400797Z
+3c1bc7aaf3449308e34296546078d9f7
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3448507
 
 mapper-base-1.1.5.jar
 file
@@ -740,40 +740,6 @@ has-props
 
 335042
 
-mapper-spring-boot-starter-2.1.2.jar
-file
-
-
-
-
-2019-06-21T07:02:18.458797Z
-72e4a214c88b6bd713b322e8cec7d08a
-2018-12-18T02:09:05.813024Z
-13910
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2535
-
 spring-cloud-netflix-ribbon-2.0.0.RC1.jar
 file
 
@@ -807,6 +773,40 @@ has-props
 
 
 102384
+
+mapper-spring-boot-starter-2.1.2.jar
+file
+
+
+
+
+2019-06-21T07:02:18.458797Z
+72e4a214c88b6bd713b322e8cec7d08a
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2535
 
 http-request-6.0.jar
 file
@@ -876,40 +876,6 @@ has-props
 
 456605
 
-bcpkix-jdk15on-1.56.jar
-file
-
-
-
-
-2019-06-21T07:02:18.391797Z
-17b2b704b3ad9b36a6fca1ace60a2a06
-2018-12-18T02:09:05.813024Z
-13910
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-685403
-
 spring-expression-5.0.4.RELEASE.jar
 file
 
@@ -944,14 +910,14 @@ has-props
 
 263410
 
-compactmap-1.2.1.jar
+bcpkix-jdk15on-1.56.jar
 file
 
 
 
 
-2019-06-21T07:02:18.412797Z
-c0c6a54b34d9c47f7d5afce713192443
+2019-06-21T07:02:18.391797Z
+17b2b704b3ad9b36a6fca1ace60a2a06
 2018-12-18T02:09:05.813024Z
 13910
 chenlx
@@ -976,7 +942,7 @@ has-props
 
 
 
-18685
+685403
 
 curvesapi-1.04.jar
 file
@@ -1011,6 +977,40 @@ has-props
 
 
 98365
+
+compactmap-1.2.1.jar
+file
+
+
+
+
+2019-06-21T07:02:18.412797Z
+c0c6a54b34d9c47f7d5afce713192443
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18685
 
 ribbon-loadbalancer-2.2.5.jar
 file
@@ -2304,40 +2304,6 @@ has-props
 
 1479023
 
-mapper-core-1.1.5.jar
-file
-
-
-
-
-2019-06-21T07:02:18.377797Z
-f901bc3b7d6b1ea5c50ddb1c27e1d294
-2019-02-28T11:49:28.856333Z
-14937
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-112577
-
 spring-session-data-redis-2.0.2.RELEASE.jar
 file
 
@@ -2372,17 +2338,17 @@ has-props
 
 40057
 
-ribbon-2.2.5.jar
+mapper-core-1.1.5.jar
 file
 
 
 
 
-2019-06-21T07:02:18.509797Z
-1d499d71642f8c42b9cfda2e8278fdd8
-2018-12-18T02:09:05.813024Z
-13910
-chenlx
+2019-06-21T07:02:18.377797Z
+f901bc3b7d6b1ea5c50ddb1c27e1d294
+2019-02-28T11:49:28.856333Z
+14937
+liuzn
 has-props
 
 
@@ -2404,7 +2370,7 @@ has-props
 
 
 
-86725
+112577
 
 fastjson-1.2.46.jar
 file
@@ -2440,6 +2406,40 @@ has-props
 
 540240
 
+ribbon-2.2.5.jar
+file
+
+
+
+
+2019-06-21T07:02:18.509797Z
+1d499d71642f8c42b9cfda2e8278fdd8
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+86725
+
 dexx-collections-0.2.jar
 file
 
@@ -2474,40 +2474,6 @@ has-props
 
 165394
 
-jackson-core-2.9.3.jar
-file
-
-
-
-
-2019-06-21T07:02:18.436797Z
-b3661b78c6f6efebf9b4714fbbc1270b
-2018-12-18T02:09:05.813024Z
-13910
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-321263
-
 spring-session-core-2.0.2.RELEASE.jar
 file
 
@@ -2541,6 +2507,40 @@ has-props
 
 
 80914
+
+jackson-core-2.9.3.jar
+file
+
+
+
+
+2019-06-21T07:02:18.436797Z
+b3661b78c6f6efebf9b4714fbbc1270b
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+321263
 
 antlr-2.7.7.jar
 file
@@ -2678,40 +2678,6 @@ has-props
 
 284220
 
-netflix-eventbus-0.3.0.jar
-file
-
-
-
-
-2019-06-21T07:02:18.467797Z
-8ad05394a13f658a67d1e4cbf0359402
-2018-12-18T02:09:05.813024Z
-13910
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-69073
-
 mapper-spring-boot-autoconfigure-2.1.5.jar
 file
 
@@ -2746,14 +2712,14 @@ has-props
 
 18340
 
-servo-core-0.10.1.jar
+netflix-eventbus-0.3.0.jar
 file
 
 
 
 
-2019-06-21T07:02:18.517797Z
-cb0652b12e9866abf97ae0f13d5cf97f
+2019-06-21T07:02:18.467797Z
+8ad05394a13f658a67d1e4cbf0359402
 2018-12-18T02:09:05.813024Z
 13910
 chenlx
@@ -2778,7 +2744,7 @@ has-props
 
 
 
-224619
+69073
 
 xpp3_min-1.1.4c.jar
 file
@@ -2814,14 +2780,14 @@ has-props
 
 24956
 
-netty-common-4.1.22.Final.jar
+servo-core-0.10.1.jar
 file
 
 
 
 
-2019-06-21T07:02:18.473797Z
-2a76ad936e80fcbb4840600ee4485138
+2019-06-21T07:02:18.517797Z
+cb0652b12e9866abf97ae0f13d5cf97f
 2018-12-18T02:09:05.813024Z
 13910
 chenlx
@@ -2846,7 +2812,7 @@ has-props
 
 
 
-575748
+224619
 
 mapper-extra-1.1.3.jar
 file
@@ -2882,14 +2848,14 @@ has-props
 
 24459
 
-mysql-connector-java-5.1.45.jar
+netty-common-4.1.22.Final.jar
 file
 
 
 
 
-2019-06-21T07:02:18.466797Z
-7e5fe17c66a6c227c4747ab383a492d0
+2019-06-21T07:02:18.473797Z
+2a76ad936e80fcbb4840600ee4485138
 2018-12-18T02:09:05.813024Z
 13910
 chenlx
@@ -2914,7 +2880,7 @@ has-props
 
 
 
-999808
+575748
 
 HikariCP-2.7.8.jar
 file
@@ -2950,17 +2916,17 @@ has-props
 
 141293
 
-mapper-extra-1.1.5.jar
+mysql-connector-java-5.1.45.jar
 file
 
 
 
 
-2019-06-21T07:02:18.378797Z
-73c3c92678113e35a5b5c887c9d8b31d
-2019-02-28T11:49:28.856333Z
-14937
-liuzn
+2019-06-21T07:02:18.466797Z
+7e5fe17c66a6c227c4747ab383a492d0
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
 has-props
 
 
@@ -2982,7 +2948,7 @@ has-props
 
 
 
-24459
+999808
 
 spring-context-5.0.4.RELEASE.jar
 file
@@ -3017,6 +2983,40 @@ has-props
 
 
 1079064
+
+mapper-extra-1.1.5.jar
+file
+
+
+
+
+2019-06-21T07:02:18.378797Z
+73c3c92678113e35a5b5c887c9d8b31d
+2019-02-28T11:49:28.856333Z
+14937
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24459
 
 spring-cloud-context-2.0.0.RC1.jar
 file
@@ -3086,40 +3086,6 @@ has-props
 
 14574
 
-lettuce-core-5.0.2.RELEASE.jar
-file
-
-
-
-
-2019-06-21T07:02:18.453797Z
-3084317843ff86d3f497ea70488c74b0
-2018-12-18T02:09:05.813024Z
-13910
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1172554
-
 xmlbeans-2.6.0.jar
 file
 
@@ -3153,6 +3119,40 @@ has-props
 
 
 2730866
+
+lettuce-core-5.0.2.RELEASE.jar
+file
+
+
+
+
+2019-06-21T07:02:18.453797Z
+3084317843ff86d3f497ea70488c74b0
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1172554
 
 classmate-1.3.4.jar
 file
@@ -3222,40 +3222,6 @@ has-props
 
 3423
 
-hystrix-core-1.5.12.jar
-file
-
-
-
-
-2019-06-21T07:02:18.435797Z
-c940d4c3bac9b99e7b4442afdf1544dc
-2018-12-18T02:09:05.813024Z
-13910
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-473452
-
 spring-cloud-netflix-core-2.0.0.RC1.jar
 file
 
@@ -3289,6 +3255,40 @@ has-props
 
 
 26061
+
+hystrix-core-1.5.12.jar
+file
+
+
+
+
+2019-06-21T07:02:18.435797Z
+c940d4c3bac9b99e7b4442afdf1544dc
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+473452
 
 spring-boot-starter-logging-2.0.0.RELEASE.jar
 file
@@ -3460,40 +3460,6 @@ has-props
 
 1322576
 
-spring-boot-starter-2.0.0.RELEASE.jar
-file
-
-
-
-
-2019-06-21T07:02:18.529797Z
-3704114f8662fae01e70657f79ffffa0
-2018-12-18T02:09:05.813024Z
-13910
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-592
-
 spring-boot-starter-jdbc-2.0.0.RELEASE.jar
 file
 
@@ -3527,6 +3493,40 @@ has-props
 
 
 598
+
+spring-boot-starter-2.0.0.RELEASE.jar
+file
+
+
+
+
+2019-06-21T07:02:18.529797Z
+3704114f8662fae01e70657f79ffffa0
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+592
 
 commons-math-2.2.jar
 file
@@ -3562,14 +3562,14 @@ has-props
 
 988514
 
-pagehelper-spring-boot-autoconfigure-1.2.10.jar
+log4j-api-2.10.0.jar
 file
 
 
 
 
-2019-06-21T07:02:18.478797Z
-7a169aa851068dabea2901e480b6f4a2
+2019-06-21T07:02:18.453797Z
+b15b1def49daaf7e74fffcce9442ba98
 2018-12-18T02:09:05.813024Z
 13910
 chenlx
@@ -3594,7 +3594,7 @@ has-props
 
 
 
-6367
+255485
 
 netty-transport-native-unix-common-4.1.22.Final.jar
 file
@@ -3630,14 +3630,14 @@ has-props
 
 31085
 
-log4j-api-2.10.0.jar
+pagehelper-spring-boot-autoconfigure-1.2.10.jar
 file
 
 
 
 
-2019-06-21T07:02:18.453797Z
-b15b1def49daaf7e74fffcce9442ba98
+2019-06-21T07:02:18.478797Z
+7a169aa851068dabea2901e480b6f4a2
 2018-12-18T02:09:05.813024Z
 13910
 chenlx
@@ -3662,41 +3662,7 @@ has-props
 
 
 
-255485
-
-aopalliance-1.0.jar
-file
-
-
-
-
-2019-06-21T07:02:18.384797Z
-04177054e180d09e3998808efa0401c7
-2018-12-18T02:09:05.813024Z
-13910
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4467
+6367
 
 commons-pool2-2.5.0.jar
 file
@@ -3731,6 +3697,40 @@ has-props
 
 
 128217
+
+aopalliance-1.0.jar
+file
+
+
+
+
+2019-06-21T07:02:18.384797Z
+04177054e180d09e3998808efa0401c7
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4467
 
 mapper-spring-boot-starter-2.1.3.jar
 file
@@ -3834,40 +3834,6 @@ has-props
 
 751238
 
-poi-3.17.jar
-file
-
-
-
-
-2019-06-21T07:02:18.485797Z
-243bc3d431e4fadb79738719504c64f7
-2018-12-18T02:09:05.813024Z
-13910
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2701171
-
 mybatis-3.4.5.jar
 file
 
@@ -3901,6 +3867,40 @@ has-props
 
 
 1623054
+
+poi-3.17.jar
+file
+
+
+
+
+2019-06-21T07:02:18.485797Z
+243bc3d431e4fadb79738719504c64f7
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2701171
 
 rxnetty-servo-0.4.9.jar
 file
@@ -4072,40 +4072,6 @@ has-props
 
 471901
 
-rxnetty-contexts-0.4.9.jar
-file
-
-
-
-
-2019-06-21T07:02:18.516797Z
-a6d0bc0c8e33aded4dee91c3f3f7c561
-2018-12-18T02:09:05.813024Z
-13910
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-53987
-
 jackson-datatype-jsr310-2.9.3.jar
 file
 
@@ -4139,6 +4105,40 @@ has-props
 
 
 97809
+
+rxnetty-contexts-0.4.9.jar
+file
+
+
+
+
+2019-06-21T07:02:18.516797Z
+a6d0bc0c8e33aded4dee91c3f3f7c561
+2018-12-18T02:09:05.813024Z
+13910
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53987
 
 netflix-statistics-0.1.1.jar
 file

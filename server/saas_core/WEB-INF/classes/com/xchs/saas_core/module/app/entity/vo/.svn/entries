@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/entity/vo
 http://192.168.9.220:8098/svn/Code
 
@@ -230,40 +230,6 @@ has-props
 
 7849
 
-AppReportFlowRangeVO.class
-file
-
-
-
-
-2019-06-21T07:01:52.496797Z
-9871a6a2190d70e7eee82416f6c45ebf
-2019-03-06T09:50:07.629919Z
-15081
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2470
-
 PublishBusinessResultVO.class
 file
 
@@ -298,16 +264,16 @@ has-props
 
 1884
 
-AppExportVO.class
+AppReportFlowRangeVO.class
 file
 
 
 
 
-2019-06-21T07:01:52.498797Z
-4a1ff5373d0ee13c1ac3ea4bcc082988
-2018-11-02T02:18:55.186089Z
-13027
+2019-06-21T07:01:52.496797Z
+9871a6a2190d70e7eee82416f6c45ebf
+2019-03-06T09:50:07.629919Z
+15081
 chenlx
 has-props
 
@@ -330,7 +296,7 @@ has-props
 
 
 
-7195
+2470
 
 AppTypeVO.class
 file
@@ -366,6 +332,40 @@ has-props
 
 3128
 
+AppExportVO.class
+file
+
+
+
+
+2019-06-21T07:01:52.498797Z
+4a1ff5373d0ee13c1ac3ea4bcc082988
+2018-11-02T02:18:55.186089Z
+13027
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7195
+
 PopularAppVO.class
 file
 
@@ -400,40 +400,6 @@ has-props
 
 2975
 
-AppReportNumberVO.class
-file
-
-
-
-
-2019-06-21T07:01:52.498797Z
-1329e6b84a7176e8d734749e55956398
-2019-02-25T02:39:26.710178Z
-14901
-zhonggp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1968
-
 AppReportCountVO.class
 file
 
@@ -467,6 +433,40 @@ has-props
 
 
 6315
+
+AppReportNumberVO.class
+file
+
+
+
+
+2019-06-21T07:01:52.498797Z
+1329e6b84a7176e8d734749e55956398
+2019-02-25T02:39:26.710178Z
+14901
+zhonggp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1968
 
 BusinessPlayerTimeVO.class
 file

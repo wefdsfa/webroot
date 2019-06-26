@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/app/repository
 http://192.168.9.220:8098/svn/Code
 
@@ -128,40 +128,6 @@ has-props
 
 1838
 
-AppTypeRepository.class
-file
-
-
-
-
-2019-06-21T07:01:52.530797Z
-98036e0f2e032236613a7a7a4e7571ad
-2018-11-02T02:18:55.186089Z
-13027
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-724
-
 UserCertificationRepository.class
 file
 
@@ -195,6 +161,40 @@ has-props
 
 
 1495
+
+AppTypeRepository.class
+file
+
+
+
+
+2019-06-21T07:01:52.530797Z
+98036e0f2e032236613a7a7a4e7571ad
+2018-11-02T02:18:55.186089Z
+13027
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+724
 
 PopularAppRepository.class
 file

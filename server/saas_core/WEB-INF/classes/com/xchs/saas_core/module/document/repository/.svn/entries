@@ -1,14 +1,14 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/repository
 http://192.168.9.220:8098/svn/Code
 
 
 
-2019-06-12T11:01:32.570852Z
-17624
+2019-06-25T11:42:26.034228Z
+17940
 liuzn
 
 
@@ -25,40 +25,6 @@ liuzn
 
 
 299aa6cb-b56a-0f48-8763-06283d695278
-
-InfoFormInstanceChangeLogRepository.class
-file
-
-
-
-
-2019-06-21T07:01:52.825797Z
-146f752dbb281fff19f356fae8b67503
-2018-11-02T02:18:55.186089Z
-13027
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-699
 
 StudentDisciplinaryPunishmentRepository.class
 file
@@ -93,6 +59,40 @@ has-props
 
 
 676
+
+InfoFormInstanceChangeLogRepository.class
+file
+
+
+
+
+2019-06-21T07:01:52.825797Z
+146f752dbb281fff19f356fae8b67503
+2018-11-02T02:18:55.186089Z
+13027
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+699
 
 InfoFormSettingRepository.class
 file
@@ -162,16 +162,16 @@ has-props
 
 764
 
-FreshmanAccountRepository.class
+StudentFamilyMemberRepository.class
 file
 
 
 
 
-2019-06-21T07:01:52.823797Z
-82b59b217a20283e6393292f6958a887
-2018-12-13T07:09:31.456438Z
-13811
+2019-06-21T07:01:52.826797Z
+bae4c8c37d895a7ff90c6a0890a38011
+2018-11-02T02:18:55.186089Z
+13027
 chenlx
 has-props
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-1006
+634
 
 InfoInstanceRepository.class
 file
@@ -230,16 +230,16 @@ has-props
 
 619
 
-StudentFamilyMemberRepository.class
+FreshmanAccountRepository.class
 file
 
 
 
 
-2019-06-21T07:01:52.826797Z
-bae4c8c37d895a7ff90c6a0890a38011
-2018-11-02T02:18:55.186089Z
-13027
+2019-06-21T07:01:52.823797Z
+82b59b217a20283e6393292f6958a887
+2018-12-13T07:09:31.456438Z
+13811
 chenlx
 has-props
 
@@ -262,19 +262,19 @@ has-props
 
 
 
-634
+1006
 
-TeacherBaseInfoRepository.class
+AddressValueRepository.class
 file
 
 
 
 
-2019-06-21T07:01:52.823797Z
-49cdde5fbcccd4d20198eeaaaa0bfc1f
-2019-02-12T07:06:13.769156Z
-14696
-zhonggp
+2019-06-21T07:01:52.821797Z
+472aa79abcff37b106ee74fa027211de
+2019-05-17T12:18:04.945945Z
+17050
+liuzn
 has-props
 
 
@@ -296,7 +296,7 @@ has-props
 
 
 
-3413
+2023
 
 DataDefinitionColumnRoleRepository.class
 file
@@ -332,17 +332,17 @@ has-props
 
 446
 
-AddressValueRepository.class
+TeacherBaseInfoRepository.class
 file
 
 
 
 
-2019-06-21T07:01:52.821797Z
-472aa79abcff37b106ee74fa027211de
-2019-05-17T12:18:04.945945Z
-17050
-liuzn
+2019-06-21T07:01:52.823797Z
+49cdde5fbcccd4d20198eeaaaa0bfc1f
+2019-02-12T07:06:13.769156Z
+14696
+zhonggp
 has-props
 
 
@@ -364,7 +364,7 @@ has-props
 
 
 
-2023
+3413
 
 FreshmanBusinessStatusRepository.class
 file
@@ -468,40 +468,6 @@ has-props
 
 632
 
-StudentPartTimeJobRepository.class
-file
-
-
-
-
-2019-06-21T07:01:52.822797Z
-53a875696fbb7dbabad439568981fed2
-2019-03-20T02:24:32.606653Z
-15262
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-889
-
 TeacherContactRepository.class
 file
 
@@ -535,6 +501,40 @@ has-props
 
 
 616
+
+StudentPartTimeJobRepository.class
+file
+
+
+
+
+2019-06-21T07:01:52.822797Z
+53a875696fbb7dbabad439568981fed2
+2019-03-20T02:24:32.606653Z
+15262
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+889
 
 UserSchoolStatusRepository.class
 file
@@ -916,11 +916,11 @@ file
 
 
 
-2019-06-21T07:01:52.821797Z
-75b2eb8a3b75cfea0f2382fee3383cbb
-2019-06-01T06:06:23.744831Z
-17383
-zhonggp
+2019-06-26T01:01:29.540643Z
+6ecee3527619c62e6d699da6c5ea7d99
+2019-06-25T11:42:26.034228Z
+17940
+liuzn
 has-props
 
 
@@ -942,7 +942,7 @@ has-props
 
 
 
-3980
+4207
 
 InfoPlayerSettingRepository.class
 file

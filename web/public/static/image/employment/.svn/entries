@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-web/gray/final_code/public/static/image/employment
 http://192.168.9.220:8098/svn/Code
 
@@ -638,40 +638,6 @@ has-props
 
 664
 
-phoneIcon.png
-file
-
-
-
-
-2019-06-21T07:01:28.984797Z
-a5103c4a9909e0be193aa81a175f94d5
-2019-06-18T09:19:24.320609Z
-17767
-shisl
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-349
-
 mail.png
 file
 
@@ -706,16 +672,16 @@ has-props
 
 473
 
-edit.png
+phoneIcon.png
 file
 
 
 
 
-2019-06-21T07:01:28.989797Z
-f0445aebd91cb30e48565625e6a46935
-2019-04-23T11:38:22.006143Z
-16176
+2019-06-21T07:01:28.984797Z
+a5103c4a9909e0be193aa81a175f94d5
+2019-06-18T09:19:24.320609Z
+17767
 shisl
 has-props
 
@@ -738,7 +704,7 @@ has-props
 
 
 
-445
+349
 
 jiuye.png
 file
@@ -773,6 +739,40 @@ has-props
 
 
 843
+
+edit.png
+file
+
+
+
+
+2019-06-21T07:01:28.989797Z
+f0445aebd91cb30e48565625e6a46935
+2019-04-23T11:38:22.006143Z
+16176
+shisl
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+445
 
 Group Copy.png
 file
@@ -1012,40 +1012,6 @@ has-props
 
 441
 
-delete.png
-file
-
-
-
-
-2019-06-21T07:01:28.988797Z
-6affe218bd7a880f0b55a3d17fabe03a
-2019-04-23T11:38:22.006143Z
-16176
-shisl
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-389
-
 password.png
 file
 
@@ -1079,6 +1045,40 @@ has-props
 
 
 503
+
+delete.png
+file
+
+
+
+
+2019-06-21T07:01:28.988797Z
+6affe218bd7a880f0b55a3d17fabe03a
+2019-04-23T11:38:22.006143Z
+16176
+shisl
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+389
 
 close.png
 file

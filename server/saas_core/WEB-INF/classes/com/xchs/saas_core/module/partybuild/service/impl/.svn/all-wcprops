@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 117
-/svn/Code/!svn/ver/17624/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/service/impl
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/service/impl
 END
 TrainingDevelopmentServiceImpl.class
 K 25
@@ -19,7 +19,7 @@ PartyBuildOrganizationServiceImpl.class
 K 25
 svn:wc:ra_dav:version-url
 V 157
-/svn/Code/!svn/ver/17624/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/service/impl/PartyBuildOrganizationServiceImpl.class
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/partybuild/service/impl/PartyBuildOrganizationServiceImpl.class
 END
 PartyMemberServiceImpl.class
 K 25

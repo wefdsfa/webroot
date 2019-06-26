@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 93
-/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/config
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/config
 END
 ThreadConfigurer.class
 K 25
@@ -67,7 +67,7 @@ RabbitMqConfig.class
 K 25
 svn:wc:ra_dav:version-url
 V 114
-/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/config/RabbitMqConfig.class
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/config/RabbitMqConfig.class
 END
 OfficialSystemConfig.class
 K 25

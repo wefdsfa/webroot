@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/user/entity/dto
 http://192.168.9.220:8098/svn/Code
 
@@ -196,40 +196,6 @@ has-props
 
 9191
 
-UserBaseInfoDTO.class
-file
-
-
-
-
-2019-06-21T07:02:19.029797Z
-f6757a9eed980baf0c68455300c2a039
-2019-01-10T14:18:45.414803Z
-14452
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13244
-
 ApartmentUserHabitsDTO.class
 file
 
@@ -263,6 +229,40 @@ has-props
 
 
 4119
+
+UserBaseInfoDTO.class
+file
+
+
+
+
+2019-06-21T07:02:19.029797Z
+f6757a9eed980baf0c68455300c2a039
+2019-01-10T14:18:45.414803Z
+14452
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13244
 
 CoreUserDTO.class
 file
@@ -400,40 +400,6 @@ has-props
 
 13540
 
-UserUpdateInfoDTO.class
-file
-
-
-
-
-2019-06-21T07:02:19.029797Z
-900852d58c0722ed2de912ad7648e9d5
-2019-01-10T14:18:45.414803Z
-14452
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3092
-
 PlainSearchFieldDTO.class
 file
 
@@ -467,6 +433,40 @@ has-props
 
 
 8103
+
+UserUpdateInfoDTO.class
+file
+
+
+
+
+2019-06-21T07:02:19.029797Z
+900852d58c0722ed2de912ad7648e9d5
+2019-01-10T14:18:45.414803Z
+14452
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3092
 
 PlainUserDTO.class
 file

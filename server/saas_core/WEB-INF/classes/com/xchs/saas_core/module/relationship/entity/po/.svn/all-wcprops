@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 116
-/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po
 END
 ClassCommitteePo.class
 K 25
@@ -15,17 +15,17 @@ svn:wc:ra_dav:version-url
 V 143
 /svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/ClassCommitteeTypePo.class
 END
-InstructorTeachingSituationPO.class
-K 25
-svn:wc:ra_dav:version-url
-V 152
-/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorTeachingSituationPO.class
-END
 TeaVO.class
 K 25
 svn:wc:ra_dav:version-url
 V 128
 /svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/TeaVO.class
+END
+InstructorTeachingSituationPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorTeachingSituationPO.class
 END
 InstructorRewardPO.class
 K 25
@@ -45,17 +45,17 @@ svn:wc:ra_dav:version-url
 V 147
 /svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorTrainingInfoPO.class
 END
+RelInstructorStudentPo.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/RelInstructorStudentPo.class
+END
 InstructorProfessionalPositionPO.class
 K 25
 svn:wc:ra_dav:version-url
 V 155
 /svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/InstructorProfessionalPositionPO.class
-END
-RelInstructorStudentPo.class
-K 25
-svn:wc:ra_dav:version-url
-V 145
-/svn/Code/!svn/ver/17697/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/RelInstructorStudentPo.class
 END
 InstructorWorkExperiencePO.class
 K 25
@@ -103,5 +103,5 @@ ClassPo.class
 K 25
 svn:wc:ra_dav:version-url
 V 130
-/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/ClassPo.class
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/entity/po/ClassPo.class
 END

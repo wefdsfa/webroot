@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_apartment/WEB-INF/classes/com/xchs/apartment/module/user/mapper
 http://192.168.9.220:8098/svn/Code
 
@@ -264,40 +264,6 @@ has-props
 
 1460
 
-UserMapper$UserMapperProvider$2.class
-file
-
-
-
-
-2019-06-21T07:02:19.091797Z
-99976ce5a478a44269570101e6bcf3e1
-2019-01-10T14:18:45.414803Z
-14452
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1460
-
 TeacherContactMapper.class
 file
 
@@ -331,6 +297,40 @@ has-props
 
 
 351
+
+UserMapper$UserMapperProvider$2.class
+file
+
+
+
+
+2019-06-21T07:02:19.091797Z
+99976ce5a478a44269570101e6bcf3e1
+2019-01-10T14:18:45.414803Z
+14452
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1460
 
 UserMapper$UserMapperProvider$3.class
 file
@@ -400,40 +400,6 @@ has-props
 
 1972
 
-StudentStatusMapper.class
-file
-
-
-
-
-2019-06-21T07:02:19.090797Z
-2918765fe584f95a5a743de8d5f746bd
-2019-01-10T14:18:45.414803Z
-14452
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-352
-
 ApartmentUserMapper.class
 file
 
@@ -467,6 +433,40 @@ has-props
 
 
 15720
+
+StudentStatusMapper.class
+file
+
+
+
+
+2019-06-21T07:02:19.090797Z
+2918765fe584f95a5a743de8d5f746bd
+2019-01-10T14:18:45.414803Z
+14452
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+352
 
 StudentBaseInfoMapper.class
 file

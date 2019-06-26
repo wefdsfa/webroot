@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 113
-/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller
 END
 DataColumnController.class
 K 25
@@ -13,7 +13,7 @@ InfoSettingController.class
 K 25
 svn:wc:ra_dav:version-url
 V 141
-/svn/Code/!svn/ver/16709/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/InfoSettingController.class
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/controller/InfoSettingController.class
 END
 StatisticsController.class
 K 25

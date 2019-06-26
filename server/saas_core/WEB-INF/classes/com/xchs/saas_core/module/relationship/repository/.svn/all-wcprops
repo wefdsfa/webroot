@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 117
-/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/repository
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/repository
 END
 ClassCommitteeRepository.class
 K 25
@@ -37,5 +37,5 @@ ClassRepository.class
 K 25
 svn:wc:ra_dav:version-url
 V 139
-/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/repository/ClassRepository.class
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/relationship/repository/ClassRepository.class
 END

@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_gateway/WEB-INF/lib
 http://192.168.9.220:8098/svn/Code
 
@@ -502,40 +502,6 @@ has-props
 
 674028
 
-archaius-core-0.7.6.jar
-file
-
-
-
-
-2019-06-21T07:02:11.787797Z
-a77a4f0e9645fb5e17fb17f8b1c7cc1b
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-139662
-
 bcprov-jdk15on-1.56.jar
 file
 
@@ -569,6 +535,40 @@ has-props
 
 
 3448507
+
+archaius-core-0.7.6.jar
+file
+
+
+
+
+2019-06-21T07:02:11.787797Z
+a77a4f0e9645fb5e17fb17f8b1c7cc1b
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+139662
 
 spring-boot-starter-2.0.1.RELEASE.jar
 file
@@ -672,40 +672,6 @@ has-props
 
 335042
 
-spring-cloud-netflix-ribbon-2.0.0.RC1.jar
-file
-
-
-
-
-2019-06-21T07:02:11.880797Z
-ccd44c92f6e64c039b213a5de352855a
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-102384
-
 netty-transport-native-epoll-4.1.23.Final.jar
 file
 
@@ -739,6 +705,40 @@ has-props
 
 
 116872
+
+spring-cloud-netflix-ribbon-2.0.0.RC1.jar
+file
+
+
+
+
+2019-06-21T07:02:11.880797Z
+ccd44c92f6e64c039b213a5de352855a
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+102384
 
 hystrix-javanica-1.5.12.jar
 file
@@ -876,40 +876,6 @@ has-props
 
 18685
 
-ribbon-loadbalancer-2.2.5.jar
-file
-
-
-
-
-2019-06-21T07:02:11.857797Z
-0b916cfb1a8fc24cd9196ff7580e6290
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-161793
-
 asm-5.0.4.jar
 file
 
@@ -943,6 +909,40 @@ has-props
 
 
 53297
+
+ribbon-loadbalancer-2.2.5.jar
+file
+
+
+
+
+2019-06-21T07:02:11.857797Z
+0b916cfb1a8fc24cd9196ff7580e6290
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+161793
 
 zuul-core-1.3.1.jar
 file
@@ -2134,40 +2134,6 @@ has-props
 
 1154874
 
-spring-cloud-netflix-zuul-2.0.0.RC1.jar
-file
-
-
-
-
-2019-06-21T07:02:11.881797Z
-1f3ec025a8a9f3a571df32102d87d3d6
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-147410
-
 antlr-2.7.7.jar
 file
 
@@ -2201,6 +2167,40 @@ has-props
 
 
 445288
+
+spring-cloud-netflix-zuul-2.0.0.RC1.jar
+file
+
+
+
+
+2019-06-21T07:02:11.881797Z
+1f3ec025a8a9f3a571df32102d87d3d6
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+147410
 
 log4j-to-slf4j-2.10.0.jar
 file
@@ -2304,14 +2304,14 @@ has-props
 
 69073
 
-spring-web-5.0.5.RELEASE.jar
+xpp3_min-1.1.4c.jar
 file
 
 
 
 
-2019-06-21T07:02:11.896797Z
-de6aff2fbceef7fdcafe9e1cc1245c0a
+2019-06-21T07:02:11.912797Z
+dcd95bcb84b09897b2b66d4684c040da
 2018-12-18T02:06:55.926029Z
 13908
 chenlx
@@ -2336,7 +2336,7 @@ has-props
 
 
 
-1254601
+24956
 
 servo-core-0.10.1.jar
 file
@@ -2372,14 +2372,14 @@ has-props
 
 224619
 
-xpp3_min-1.1.4c.jar
+spring-web-5.0.5.RELEASE.jar
 file
 
 
 
 
-2019-06-21T07:02:11.912797Z
-dcd95bcb84b09897b2b66d4684c040da
+2019-06-21T07:02:11.896797Z
+de6aff2fbceef7fdcafe9e1cc1245c0a
 2018-12-18T02:06:55.926029Z
 13908
 chenlx
@@ -2404,7 +2404,7 @@ has-props
 
 
 
-24956
+1254601
 
 spring-webmvc-5.0.5.RELEASE.jar
 file
@@ -2576,40 +2576,6 @@ has-props
 
 65100
 
-spring-cloud-netflix-core-2.0.0.RC1.jar
-file
-
-
-
-
-2019-06-21T07:02:11.879797Z
-0eefb4c5c6b274057fc5a5411f7a7d8f
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-26061
-
 hystrix-core-1.5.12.jar
 file
 
@@ -2643,6 +2609,40 @@ has-props
 
 
 473452
+
+spring-cloud-netflix-core-2.0.0.RC1.jar
+file
+
+
+
+
+2019-06-21T07:02:11.879797Z
+0eefb4c5c6b274057fc5a5411f7a7d8f
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26061
 
 guava-15.0.jar
 file
@@ -2916,40 +2916,6 @@ has-props
 
 29155
 
-stax-api-1.0-2.jar
-file
-
-
-
-
-2019-06-21T07:02:11.898797Z
-7d18b63063580284c3f5734081fdc99f
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23346
-
 spring-expression-5.0.5.RELEASE.jar
 file
 
@@ -2983,6 +2949,40 @@ has-props
 
 
 277556
+
+stax-api-1.0-2.jar
+file
+
+
+
+
+2019-06-21T07:02:11.898797Z
+7d18b63063580284c3f5734081fdc99f
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23346
 
 spring-cloud-netflix-eureka-client-2.0.0.RC1.jar
 file
@@ -3086,40 +3086,6 @@ has-props
 
 471901
 
-rxnetty-contexts-0.4.9.jar
-file
-
-
-
-
-2019-06-21T07:02:11.862797Z
-a6d0bc0c8e33aded4dee91c3f3f7c561
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-53987
-
 jackson-datatype-jsr310-2.9.3.jar
 file
 
@@ -3153,6 +3119,40 @@ has-props
 
 
 97809
+
+rxnetty-contexts-0.4.9.jar
+file
+
+
+
+
+2019-06-21T07:02:11.862797Z
+a6d0bc0c8e33aded4dee91c3f3f7c561
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53987
 
 spring-jcl-5.0.5.RELEASE.jar
 file
@@ -3256,40 +3256,6 @@ has-props
 
 366070
 
-rxjava-reactive-streams-1.2.1.jar
-file
-
-
-
-
-2019-06-21T07:02:11.860797Z
-12e57cc44e6b444da2c95387a9d2a2fd
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-18217
-
 netty-common-4.1.23.Final.jar
 file
 
@@ -3323,6 +3289,40 @@ has-props
 
 
 576781
+
+rxjava-reactive-streams-1.2.1.jar
+file
+
+
+
+
+2019-06-21T07:02:11.860797Z
+12e57cc44e6b444da2c95387a9d2a2fd
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18217
 
 jackson-datatype-jdk8-2.9.3.jar
 file
@@ -3358,40 +3358,6 @@ has-props
 
 33394
 
-spring-cloud-starter-2.0.0.RC1.jar
-file
-
-
-
-
-2019-06-21T07:02:11.881797Z
-1b12d692da185c53284ae6fbfe953e8f
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2249
-
 hystrix-serialization-1.5.12.jar
 file
 
@@ -3425,6 +3391,40 @@ has-props
 
 
 35296
+
+spring-cloud-starter-2.0.0.RC1.jar
+file
+
+
+
+
+2019-06-21T07:02:11.881797Z
+1b12d692da185c53284ae6fbfe953e8f
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2249
 
 stax2-api-3.1.4.jar
 file
@@ -3596,40 +3596,6 @@ has-props
 
 29779
 
-spring-boot-starter-actuator-2.0.1.RELEASE.jar
-file
-
-
-
-
-2019-06-21T07:02:11.877797Z
-de54db924fe90ec1f7f235a83141acaa
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-612
-
 netflix-infix-0.3.0.jar
 file
 
@@ -3663,6 +3629,40 @@ has-props
 
 
 101813
+
+spring-boot-starter-actuator-2.0.1.RELEASE.jar
+file
+
+
+
+
+2019-06-21T07:02:11.877797Z
+de54db924fe90ec1f7f235a83141acaa
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+612
 
 stax-api-1.0.1.jar
 file
@@ -3902,40 +3902,6 @@ has-props
 
 66469
 
-spring-cloud-commons-2.0.0.RC1.jar
-file
-
-
-
-
-2019-06-21T07:02:11.878797Z
-19d77d557ab6485555628e7397ee7630
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-128327
-
 spring-boot-actuator-2.0.1.RELEASE.jar
 file
 
@@ -3969,6 +3935,40 @@ has-props
 
 
 459241
+
+spring-cloud-commons-2.0.0.RC1.jar
+file
+
+
+
+
+2019-06-21T07:02:11.878797Z
+19d77d557ab6485555628e7397ee7630
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+128327
 
 rxjava-1.3.8.jar
 file
@@ -4004,40 +4004,6 @@ has-props
 
 1159165
 
-httpcore-4.4.9.jar
-file
-
-
-
-
-2019-06-21T07:02:11.825797Z
-b89455507839c09d6119661defd2166a
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-325500
-
 eureka-client-1.8.8.jar
 file
 
@@ -4072,14 +4038,14 @@ has-props
 
 438454
 
-ribbon-core-2.2.5.jar
+httpcore-4.4.9.jar
 file
 
 
 
 
-2019-06-21T07:02:11.856797Z
-093e47144b5361bcfb93b84dcd57df5d
+2019-06-21T07:02:11.825797Z
+b89455507839c09d6119661defd2166a
 2018-12-18T02:06:55.926029Z
 13908
 chenlx
@@ -4104,7 +4070,7 @@ has-props
 
 
 
-83270
+325500
 
 netty-transport-native-unix-common-4.1.23.Final.jar
 file
@@ -4139,6 +4105,40 @@ has-props
 
 
 31096
+
+ribbon-core-2.2.5.jar
+file
+
+
+
+
+2019-06-21T07:02:11.856797Z
+093e47144b5361bcfb93b84dcd57df5d
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+83270
 
 spring-cloud-starter-netflix-eureka-client-2.0.0.RC1.jar
 file
@@ -4208,40 +4208,6 @@ has-props
 
 16610
 
-spring-boot-actuator-autoconfigure-2.0.1.RELEASE.jar
-file
-
-
-
-
-2019-06-21T07:02:11.873797Z
-d30318c5e0970493a5e15bd13604cf6a
-2018-12-18T02:06:55.926029Z
-13908
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-371927
-
 commons-jxpath-1.3.jar
 file
 
@@ -4275,6 +4241,40 @@ has-props
 
 
 299994
+
+spring-boot-actuator-autoconfigure-2.0.1.RELEASE.jar
+file
+
+
+
+
+2019-06-21T07:02:11.873797Z
+d30318c5e0970493a5e15bd13604cf6a
+2018-12-18T02:06:55.926029Z
+13908
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+371927
 
 eureka-core-1.8.8.jar
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_core/download
 http://192.168.9.220:8098/svn/Code
 
@@ -638,40 +638,6 @@ has-props
 
 8569
 
-template_freshman_import.xlsx
-file
-
-
-
-
-2019-06-21T07:02:06.674797Z
-cbd6db98d7e0374a41d3ef4664cd799e
-2018-07-03T00:52:48.837746Z
-10818
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-21394
-
 signInPeopleTemplate.xlsx
 file
 
@@ -706,17 +672,17 @@ has-props
 
 8569
 
-template_organizations_duties_import.xlsx
+template_freshman_import.xlsx
 file
 
 
 
 
-2019-06-21T07:02:06.668797Z
-581c74c9b9b26eddf5a1a617d33d5a19
-2019-03-02T11:20:15.911075Z
-14988
-chenlx
+2019-06-21T07:02:06.674797Z
+cbd6db98d7e0374a41d3ef4664cd799e
+2018-07-03T00:52:48.837746Z
+10818
+liuzn
 has-props
 
 
@@ -738,7 +704,7 @@ has-props
 
 
 
-9118
+21394
 
 relStudentTemplete.xlsx
 file
@@ -774,6 +740,40 @@ has-props
 
 7840
 
+template_organizations_duties_import.xlsx
+file
+
+
+
+
+2019-06-21T07:02:06.668797Z
+581c74c9b9b26eddf5a1a617d33d5a19
+2019-03-02T11:20:15.911075Z
+14988
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9118
+
 batchCreateOrgDepartmentTemplate.xlsx
 file
 
@@ -807,108 +807,6 @@ has-props
 
 
 8645
-
-template_students_import.xlsx
-file
-
-
-
-
-2019-06-21T07:02:06.674797Z
-5dcf9c810cc86220477676586e640505
-2018-08-01T10:25:31.820657Z
-11232
-daisp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-21371
-
-1536676891614.xlsx
-file
-
-
-
-
-2019-06-21T07:02:06.671797Z
-aee6c784275856798c6f9ae099aaf065
-2018-09-13T10:33:12.659618Z
-12141
-daisp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2764
-
-batchCreateInstructorTemplate.xlsx
-file
-
-
-
-
-2019-06-21T07:02:06.670797Z
-31840cebd518dc5cc4bcea22b0e705bb
-2018-11-09T01:16:46.254214Z
-13152
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8544
 
 businessStudentTemplate.xlsx
 file
@@ -944,6 +842,108 @@ has-props
 
 8729
 
+batchCreateInstructorTemplate.xlsx
+file
+
+
+
+
+2019-06-21T07:02:06.670797Z
+31840cebd518dc5cc4bcea22b0e705bb
+2018-11-09T01:16:46.254214Z
+13152
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8544
+
+1536676891614.xlsx
+file
+
+
+
+
+2019-06-21T07:02:06.671797Z
+aee6c784275856798c6f9ae099aaf065
+2018-09-13T10:33:12.659618Z
+12141
+daisp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2764
+
+template_students_import.xlsx
+file
+
+
+
+
+2019-06-21T07:02:06.674797Z
+5dcf9c810cc86220477676586e640505
+2018-08-01T10:25:31.820657Z
+11232
+daisp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21371
+
 collegeTemplate.xlsx
 file
 
@@ -978,40 +978,6 @@ has-props
 
 10287
 
-form-export-1533815726944.xlsx
-file
-
-
-
-
-2019-06-21T07:02:06.673797Z
-cf9aef6c1eed722d7d9264f07fe7019f
-2018-08-23T01:42:01.504716Z
-11636
-daisp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-634006
-
 tutorTemplate.xlsx
 file
 
@@ -1045,6 +1011,40 @@ has-props
 
 
 8770
+
+form-export-1533815726944.xlsx
+file
+
+
+
+
+2019-06-21T07:02:06.673797Z
+cf9aef6c1eed722d7d9264f07fe7019f
+2018-08-23T01:42:01.504716Z
+11636
+daisp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+634006
 
 imgage.jpg
 file

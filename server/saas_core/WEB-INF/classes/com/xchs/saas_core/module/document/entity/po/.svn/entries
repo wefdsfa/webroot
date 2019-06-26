@@ -1,15 +1,15 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po
 http://192.168.9.220:8098/svn/Code
 
 
 
-2019-06-20T14:47:39.891510Z
-17832
-chenlx
+2019-06-25T11:42:26.034228Z
+17940
+liuzn
 
 
 
@@ -536,40 +536,6 @@ has-props
 
 6515
 
-StudentEducationInfoPO.class
-file
-
-
-
-
-2019-06-21T07:01:52.666797Z
-419e047065b99ec569d8cb18f24ee1f5
-2018-12-01T07:40:46.306727Z
-13625
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4332
-
 StudentDifficultyIdentifiedPO.class
 file
 
@@ -604,17 +570,17 @@ has-props
 
 7183
 
-StudentLoanPO.class
+StudentEducationInfoPO.class
 file
 
 
 
 
-2019-06-21T07:01:52.664797Z
-09c25f2b0567e8aa88a5a9a7a3d317c5
-2019-01-11T10:27:29.653758Z
-14489
-chenlx
+2019-06-21T07:01:52.666797Z
+419e047065b99ec569d8cb18f24ee1f5
+2018-12-01T07:40:46.306727Z
+13625
+liuzn
 has-props
 
 
@@ -636,7 +602,7 @@ has-props
 
 
 
-13688
+4332
 
 DataDefinitionColumnPO.class
 file
@@ -672,16 +638,16 @@ has-props
 
 9665
 
-StudentSubsidiesPO.class
+StudentLoanPO.class
 file
 
 
 
 
-2019-06-21T07:01:52.667797Z
-9e6432c56406ef512fa0b2186e1f272c
-2018-11-22T01:45:41.772969Z
-13411
+2019-06-21T07:01:52.664797Z
+09c25f2b0567e8aa88a5a9a7a3d317c5
+2019-01-11T10:27:29.653758Z
+14489
 chenlx
 has-props
 
@@ -704,7 +670,7 @@ has-props
 
 
 
-7574
+13688
 
 StudentWorkExperiencePO.class
 file
@@ -740,17 +706,17 @@ has-props
 
 4698
 
-StudentPartyBuildInfoPO.class
+StudentSubsidiesPO.class
 file
 
 
 
 
-2019-06-21T07:01:52.661797Z
-6099f8a914ad5e5dc662b62638591e70
-2019-06-10T15:31:56.109840Z
-17556
-liuzn
+2019-06-21T07:01:52.667797Z
+9e6432c56406ef512fa0b2186e1f272c
+2018-11-22T01:45:41.772969Z
+13411
+chenlx
 has-props
 
 
@@ -772,7 +738,7 @@ has-props
 
 
 
-5958
+7574
 
 StudentExtendFieldPO.class
 file
@@ -807,6 +773,40 @@ has-props
 
 
 2787
+
+StudentPartyBuildInfoPO.class
+file
+
+
+
+
+2019-06-21T07:01:52.661797Z
+6099f8a914ad5e5dc662b62638591e70
+2019-06-10T15:31:56.109840Z
+17556
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5958
 
 StudentFamilyInfoPO.class
 file
@@ -910,40 +910,6 @@ has-props
 
 5709
 
-StudentTuitionFeeSuspensionPO.class
-file
-
-
-
-
-2019-06-21T07:01:52.665797Z
-baef5778c834d77d00d40d831e750794
-2018-12-05T07:19:35.906054Z
-13692
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3945
-
 DocumentChangeLogsPO.class
 file
 
@@ -978,16 +944,16 @@ has-props
 
 8613
 
-StudentFamilyMemberPO.class
+StudentTuitionFeeSuspensionPO.class
 file
 
 
 
 
-2019-06-21T07:01:52.666797Z
-6bded05a60999c85b88f95d4572cd8b6
-2018-11-27T18:05:53.672904Z
-13537
+2019-06-21T07:01:52.665797Z
+baef5778c834d77d00d40d831e750794
+2018-12-05T07:19:35.906054Z
+13692
 liuzn
 has-props
 
@@ -1010,7 +976,7 @@ has-props
 
 
 
-8460
+3945
 
 InfoInstancePO.class
 file
@@ -1045,6 +1011,40 @@ has-props
 
 
 8767
+
+StudentFamilyMemberPO.class
+file
+
+
+
+
+2019-06-21T07:01:52.666797Z
+6bded05a60999c85b88f95d4572cd8b6
+2018-11-27T18:05:53.672904Z
+13537
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8460
 
 UserCertificationPO.class
 file
@@ -1494,11 +1494,11 @@ file
 
 
 
-2019-06-21T07:01:52.662797Z
-f93a670ddc95fe1e4a2121efaec49e68
-2019-04-25T17:54:08.444496Z
-16383
-chenlx
+2019-06-26T01:01:29.441643Z
+8b2b5e5e812a2e1db234277d0dcb9280
+2019-06-25T11:42:26.034228Z
+17940
+liuzn
 has-props
 
 
@@ -1520,7 +1520,7 @@ has-props
 
 
 
-32638
+30481
 
 StudentMilitaryTrainingPO.class
 file

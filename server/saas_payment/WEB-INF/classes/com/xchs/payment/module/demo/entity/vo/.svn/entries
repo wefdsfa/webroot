@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_payment/WEB-INF/classes/com/xchs/payment/module/demo/entity/vo
 http://192.168.9.220:8098/svn/Code
 
@@ -25,40 +25,6 @@ chenlx
 
 
 299aa6cb-b56a-0f48-8763-06283d695278
-
-DeleteInformationVO.class
-file
-
-
-
-
-2019-06-21T07:02:12.054797Z
-55d66436155950535c01a44cf59762e7
-2018-12-21T03:21:43.214202Z
-14087
-zhonggp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2657
 
 PaymentProjectStatusVO.class
 file
@@ -94,14 +60,48 @@ has-props
 
 2808
 
-ProjectCanDeleteVO.class
+DeleteInformationVO.class
+file
+
+
+
+
+2019-06-21T07:02:12.054797Z
+55d66436155950535c01a44cf59762e7
+2018-12-21T03:21:43.214202Z
+14087
+zhonggp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2657
+
+StatVO.class
 file
 
 
 
 
 2019-06-21T07:02:12.056797Z
-30704d90352163775311b61cbc6abdc8
+8c0556dfeb40405e8907710e09862ac1
 2018-12-18T02:12:47.616430Z
 13911
 chenlx
@@ -126,41 +126,7 @@ has-props
 
 
 
-1428
-
-CollegeNameVO.class
-file
-
-
-
-
-2019-06-21T07:02:12.055797Z
-dc296f22668b51a2f8375cf331802473
-2018-12-18T02:12:47.616430Z
-13911
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1908
+5276
 
 InsertOnePeopleVO.class
 file
@@ -196,14 +162,14 @@ has-props
 
 4736
 
-StatVO.class
+CollegeNameVO.class
 file
 
 
 
 
-2019-06-21T07:02:12.056797Z
-8c0556dfeb40405e8907710e09862ac1
+2019-06-21T07:02:12.055797Z
+dc296f22668b51a2f8375cf331802473
 2018-12-18T02:12:47.616430Z
 13911
 chenlx
@@ -228,7 +194,41 @@ has-props
 
 
 
-5276
+1908
+
+ProjectCanDeleteVO.class
+file
+
+
+
+
+2019-06-21T07:02:12.056797Z
+30704d90352163775311b61cbc6abdc8
+2018-12-18T02:12:47.616430Z
+13911
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1428
 
 UserPayProjectRecordVO.class
 file
@@ -434,40 +434,6 @@ has-props
 
 8357
 
-UpdatePeopleInformationVO.class
-file
-
-
-
-
-2019-06-21T07:02:12.055797Z
-2723bcc178f58bd9bbe35ac14e5b8b3a
-2018-12-20T07:27:38.763261Z
-14032
-zhonggp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5223
-
 SettingInputVO.class
 file
 
@@ -501,6 +467,40 @@ has-props
 
 
 2308
+
+UpdatePeopleInformationVO.class
+file
+
+
+
+
+2019-06-21T07:02:12.055797Z
+2723bcc178f58bd9bbe35ac14e5b8b3a
+2018-12-20T07:27:38.763261Z
+14032
+zhonggp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5223
 
 MessageInput.class
 file

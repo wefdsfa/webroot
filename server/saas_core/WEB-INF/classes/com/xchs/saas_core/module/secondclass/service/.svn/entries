@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/secondclass/service
 http://192.168.9.220:8098/svn/Code
 
@@ -60,40 +60,6 @@ has-props
 
 2276
 
-ActivityService.class
-file
-
-
-
-
-2019-06-21T07:01:54.101797Z
-746f3837f27fd9e51eef174279d21af5
-2018-11-02T02:18:55.186089Z
-13027
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2104
-
 OrganizationMemberService.class
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 3951
+
+ActivityService.class
+file
+
+
+
+
+2019-06-21T07:01:54.101797Z
+746f3837f27fd9e51eef174279d21af5
+2018-11-02T02:18:55.186089Z
+13027
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2104
 
 ActivityTypeService.class
 file
@@ -162,40 +162,6 @@ has-props
 
 897
 
-ActivityApplyService.class
-file
-
-
-
-
-2019-06-21T07:01:54.100797Z
-e101202493f4897e37fcfde43579baaf
-2018-11-02T02:18:55.186089Z
-13027
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1879
-
 UtilService$1.class
 file
 
@@ -230,16 +196,16 @@ has-props
 
 1559
 
-OrganizationService.class
+ActivityApplyService.class
 file
 
 
 
 
-2019-06-21T07:01:54.099797Z
-ab79cf93a2505de0acf8af99c94bde97
-2019-04-25T17:54:08.444496Z
-16383
+2019-06-21T07:01:54.100797Z
+e101202493f4897e37fcfde43579baaf
+2018-11-02T02:18:55.186089Z
+13027
 chenlx
 has-props
 
@@ -262,7 +228,7 @@ has-props
 
 
 
-3386
+1879
 
 ActivitySortService.class
 file
@@ -298,6 +264,40 @@ has-props
 
 248
 
+OrganizationService.class
+file
+
+
+
+
+2019-06-21T07:01:54.099797Z
+ab79cf93a2505de0acf8af99c94bde97
+2019-04-25T17:54:08.444496Z
+16383
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3386
+
 ActivityCountService.class
 file
 
@@ -331,40 +331,6 @@ has-props
 
 
 360
-
-OrganizationTitleService.class
-file
-
-
-
-
-2019-06-21T07:01:54.099797Z
-65a8ac7edf74f9c93497037a0b9bdbce
-2019-04-25T18:13:24.614754Z
-16390
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1781
 
 ActivityPointService.class
 file
@@ -400,6 +366,40 @@ has-props
 
 555
 
+OrganizationTitleService.class
+file
+
+
+
+
+2019-06-21T07:01:54.099797Z
+65a8ac7edf74f9c93497037a0b9bdbce
+2019-04-25T18:13:24.614754Z
+16390
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1781
+
 OrganizationDutyService.class
 file
 
@@ -434,40 +434,6 @@ has-props
 
 1431
 
-ReportService.class
-file
-
-
-
-
-2019-06-21T07:01:54.100797Z
-954af24b5cb950f29ad752f4b73e275f
-2018-12-01T03:09:04.663837Z
-13612
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-335
-
 OrgDepartmentService.class
 file
 
@@ -501,6 +467,40 @@ has-props
 
 
 1641
+
+ReportService.class
+file
+
+
+
+
+2019-06-21T07:01:54.100797Z
+954af24b5cb950f29ad752f4b73e275f
+2018-12-01T03:09:04.663837Z
+13612
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+335
 
 impl
 dir

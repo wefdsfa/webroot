@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/vo
 http://192.168.9.220:8098/svn/Code
 
@@ -876,40 +876,6 @@ has-props
 
 3067
 
-TeacherBaseInfoVO.class
-file
-
-
-
-
-2019-06-21T07:01:52.752797Z
-892c0d075687d9aa4b79c809581bf350
-2018-11-21T04:58:28.946055Z
-13400
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-26898
-
 UserCertificationVO.class
 file
 
@@ -944,17 +910,17 @@ has-props
 
 3047
 
-FreshmanBusinessStatusVO.class
+TeacherBaseInfoVO.class
 file
 
 
 
 
-2019-06-21T07:01:52.754797Z
-dae9243bc516953573f9ee3a7282ac38
-2018-11-02T02:18:55.186089Z
-13027
-chenlx
+2019-06-21T07:01:52.752797Z
+892c0d075687d9aa4b79c809581bf350
+2018-11-21T04:58:28.946055Z
+13400
+liuzn
 has-props
 
 
@@ -976,7 +942,7 @@ has-props
 
 
 
-6458
+26898
 
 StudentInstructorVO.class
 file
@@ -1011,6 +977,40 @@ has-props
 
 
 3747
+
+FreshmanBusinessStatusVO.class
+file
+
+
+
+
+2019-06-21T07:01:52.754797Z
+dae9243bc516953573f9ee3a7282ac38
+2018-11-02T02:18:55.186089Z
+13027
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6458
 
 ExportFieldVO.class
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-17850
+17942
 http://192.168.9.220:8098/svn/Code/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/dto
 http://192.168.9.220:8098/svn/Code
 
@@ -162,40 +162,6 @@ has-props
 
 3077
 
-UserAndAccountDTO.class
-file
-
-
-
-
-2019-06-21T07:01:52.700797Z
-78c95964af4a9244ed4a4389838e090d
-2018-12-07T01:30:24.181407Z
-13723
-chenlx
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7729
-
 UserDTO.class
 file
 
@@ -229,6 +195,40 @@ has-props
 
 
 10122
+
+UserAndAccountDTO.class
+file
+
+
+
+
+2019-06-21T07:01:52.700797Z
+78c95964af4a9244ed4a4389838e090d
+2018-12-07T01:30:24.181407Z
+13723
+chenlx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7729
 
 StudentStatisticExportDTO.class
 file
@@ -400,40 +400,6 @@ has-props
 
 11682
 
-ClassAndUserDTO.class
-file
-
-
-
-
-2019-06-21T07:01:52.700797Z
-177602435742bf326be69bc001d91f90
-2018-11-09T01:16:46.254214Z
-13152
-liuzn
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2270
-
 AdvanceSearchDTO.class
 file
 
@@ -467,6 +433,40 @@ has-props
 
 
 6244
+
+ClassAndUserDTO.class
+file
+
+
+
+
+2019-06-21T07:01:52.700797Z
+177602435742bf326be69bc001d91f90
+2018-11-09T01:16:46.254214Z
+13152
+liuzn
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2270
 
 UserUpdateBaseInfoDTO.class
 file

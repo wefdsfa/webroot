@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 112
-/svn/Code/!svn/ver/17832/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po
 END
 StudentDisciplinaryPunishmentPO.class
 K 25
@@ -93,23 +93,17 @@ svn:wc:ra_dav:version-url
 V 142
 /svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentSocialPracticePO.class
 END
-StudentEducationInfoPO.class
-K 25
-svn:wc:ra_dav:version-url
-V 141
-/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentEducationInfoPO.class
-END
 StudentDifficultyIdentifiedPO.class
 K 25
 svn:wc:ra_dav:version-url
 V 148
 /svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentDifficultyIdentifiedPO.class
 END
-DataDefinitionColumnPO.class
+StudentEducationInfoPO.class
 K 25
 svn:wc:ra_dav:version-url
 V 141
-/svn/Code/!svn/ver/16648/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/DataDefinitionColumnPO.class
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentEducationInfoPO.class
 END
 StudentLoanPO.class
 K 25
@@ -117,11 +111,11 @@ svn:wc:ra_dav:version-url
 V 132
 /svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentLoanPO.class
 END
-StudentSubsidiesPO.class
+DataDefinitionColumnPO.class
 K 25
 svn:wc:ra_dav:version-url
-V 137
-/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentSubsidiesPO.class
+V 141
+/svn/Code/!svn/ver/16648/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/DataDefinitionColumnPO.class
 END
 StudentWorkExperiencePO.class
 K 25
@@ -129,17 +123,23 @@ svn:wc:ra_dav:version-url
 V 142
 /svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentWorkExperiencePO.class
 END
-StudentPartyBuildInfoPO.class
+StudentSubsidiesPO.class
 K 25
 svn:wc:ra_dav:version-url
-V 142
-/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentPartyBuildInfoPO.class
+V 137
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentSubsidiesPO.class
 END
 StudentExtendFieldPO.class
 K 25
 svn:wc:ra_dav:version-url
 V 139
 /svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentExtendFieldPO.class
+END
+StudentPartyBuildInfoPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Code/!svn/ver/17556/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentPartyBuildInfoPO.class
 END
 StudentFamilyInfoPO.class
 K 25
@@ -159,29 +159,29 @@ svn:wc:ra_dav:version-url
 V 134
 /svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentResumePO.class
 END
-StudentTuitionFeeSuspensionPO.class
-K 25
-svn:wc:ra_dav:version-url
-V 148
-/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentTuitionFeeSuspensionPO.class
-END
 DocumentChangeLogsPO.class
 K 25
 svn:wc:ra_dav:version-url
 V 139
 /svn/Code/!svn/ver/16390/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/DocumentChangeLogsPO.class
 END
-StudentFamilyMemberPO.class
+StudentTuitionFeeSuspensionPO.class
 K 25
 svn:wc:ra_dav:version-url
-V 140
-/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentFamilyMemberPO.class
+V 148
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentTuitionFeeSuspensionPO.class
 END
 InfoInstancePO.class
 K 25
 svn:wc:ra_dav:version-url
 V 133
 /svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/InfoInstancePO.class
+END
+StudentFamilyMemberPO.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentFamilyMemberPO.class
 END
 UserCertificationPO.class
 K 25
@@ -265,7 +265,7 @@ StudentBaseInfoPO.class
 K 25
 svn:wc:ra_dav:version-url
 V 136
-/svn/Code/!svn/ver/16388/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentBaseInfoPO.class
+/svn/Code/!svn/ver/17940/saas-deploy/gray/saas_core/WEB-INF/classes/com/xchs/saas_core/module/document/entity/po/StudentBaseInfoPO.class
 END
 StudentMilitaryTrainingPO.class
 K 25
